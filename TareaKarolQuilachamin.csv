@@ -1,0 +1,1472 @@
+id;gender;age;hypertension;heart_disease;ever_married;work_type;Residence_type;avg_glucose_level;bmi;smoking_status;stroke
+91;Female;42;0;0;No;Private;Urban;98,53;18,50;never smoked;0
+129;Female;24;0;0;No;Private;Urban;97,55;26,20;never smoked;0
+156;Female;33;0;0;Yes;Private;Rural;86,97;42,20;never smoked;0
+247;Male;31;0;0;No;Private;Urban;72,60;31,60;never smoked;0
+315;Male;45;0;0;Yes;Private;Rural;65,42;39,70;never smoked;0
+338;Female;43;0;0;Yes;Private;Rural;110,32;28,40;never smoked;0
+365;Female;44;1;0;Yes;Private;Rural;69,48;41,30;never smoked;0
+452;Male;48;1;0;Yes;Private;Urban;173,14;37,00;smokes;0
+458;Female;37;0;0;Yes;Govt_job;Urban;72,09;24,10;smokes;0
+464;Male;46;0;0;Yes;Private;Rural;78,44;23,90;never smoked;0
+507;Female;28;0;0;Yes;Private;Rural;94,15;23,10;smokes;0
+545;Male;42;0;0;Yes;Private;Rural;210,48;71,90;never smoked;0
+563;Female;41;0;0;Yes;Private;Rural;216,71;36,20;never smoked;0
+727;Male;44;0;0;Yes;Private;Rural;95,46;31,40;smokes;0
+742;Female;39;0;0;No;Govt_job;Rural;87,33;34,30;never smoked;0
+782;Female;32;0;0;No;Private;Urban;79,34;26,50;formerly smoked;0
+841;Male;34;0;0;Yes;Private;Urban;83,75;37,00;never smoked;0
+875;Female;34;0;0;No;Private;Urban;67,66;22,40;never smoked;0
+917;Female;32;0;0;Yes;Private;Urban;85,18;22,20;smokes;0
+1116;Female;49;0;0;No;Govt_job;Rural;104,08;26,60;never smoked;0
+1119;Male;47;0;1;Yes;Govt_job;Urban;101,81;28,40;smokes;0
+1164;Female;43;0;0;No;Private;Rural;101,75;26,70;smokes;0
+1192;Female;31;0;0;No;Govt_job;Rural;70,66;27,20;never smoked;0
+1218;Female;23;0;0;No;Private;Urban;105,28;27,10;formerly smoked;0
+1225;Male;43;0;0;Yes;Private;Urban;87,82;38,80;formerly smoked;0
+1323;Female;45;0;0;Yes;Private;Rural;87,47;21,50;never smoked;0
+1329;Female;43;0;0;No;Govt_job;Rural;101,35;32,20;never smoked;0
+1454;Female;42;0;0;No;Private;Urban;84,03;31,40;never smoked;0
+1499;Female;43;0;0;Yes;Govt_job;Rural;72,13;42,60;never smoked;0
+1506;Female;48;0;0;No;Govt_job;Urban;101,41;20,70;smokes;0
+1656;Male;38;0;0;Yes;Private;Urban;92,22;40,80;never smoked;0
+1686;Female;29;0;0;No;Private;Urban;71,89;27,60;never smoked;0
+1696;Female;43;0;0;Yes;Private;Urban;100,88;47,60;smokes;0
+1825;Male;33;0;0;Yes;Self-employed;Urban;90,68;31,70;smokes;0
+1893;Female;38;0;0;Yes;Private;Urban;91,68;42,80;formerly smoked;0
+2029;Female;40;0;0;Yes;Private;Rural;92,35;38,00;never smoked;0
+2092;Female;37;0;0;Yes;Private;Rural;98,12;27,50;never smoked;0
+2209;Female;47;0;0;Yes;Govt_job;Urban;100,31;31,20;smokes;0
+2218;Male;42;0;0;Yes;Private;Rural;107,83;35,30;smokes;0
+2244;Male;44;0;0;Yes;Private;Urban;80,75;30,90;never smoked;0
+2267;Female;31;0;0;Yes;Self-employed;Urban;82,31;31,90;never smoked;0
+2275;Female;47;0;0;Yes;Private;Urban;112,09;24,70;smokes;0
+2520;Female;26;0;0;Yes;Private;Rural;84,90;26,20;never smoked;0
+2550;Female;28;0;0;Yes;Govt_job;Rural;86,91;21,10;formerly smoked;0
+2633;Male;32;0;0;Yes;Private;Rural;71,50;31,80;never smoked;0
+2751;Male;50;0;0;Yes;Govt_job;Urban;110,73;28,70;smokes;0
+2822;Female;30;0;0;Yes;Private;Rural;72,49;25,80;never smoked;0
+2824;Female;44;0;0;Yes;Govt_job;Urban;91,21;24,10;never smoked;0
+2846;Female;46;0;0;Yes;Private;Rural;85,81;20,20;formerly smoked;0
+2898;Male;46;0;0;Yes;Private;Urban;87,66;57,30;never smoked;0
+2903;Female;35;0;0;No;Private;Rural;123,83;23,80;never smoked;0
+2953;Female;43;0;0;Yes;Private;Rural;75,05;22,90;smokes;0
+3062;Female;47;0;0;Yes;Self-employed;Rural;157,77;28,40;never smoked;0
+3113;Female;33;0;0;No;Private;Rural;80,21;27,80;formerly smoked;0
+3178;Female;25;0;0;Yes;Private;Rural;68,78;55,10;formerly smoked;0
+3180;Female;42;0;0;Yes;Govt_job;Urban;88,89;33,00;never smoked;0
+3184;Female;45;0;0;Yes;Private;Urban;89,05;27,80;formerly smoked;0
+3325;Male;30;0;0;Yes;Self-employed;Rural;95,01;32,30;smokes;0
+3361;Female;39;0;0;Yes;Govt_job;Rural;97,89;23,60;never smoked;0
+3390;Female;36;0;0;Yes;Private;Rural;100,33;23,20;never smoked;0
+3437;Female;26;0;0;No;Private;Urban;82,61;28,50;smokes;0
+3477;Female;26;0;0;No;Private;Rural;78,16;20,10;never smoked;0
+3509;Male;47;1;0;Yes;Private;Urban;110,25;44,30;never smoked;0
+3531;Male;41;0;0;Yes;Private;Rural;83,97;28,50;formerly smoked;0
+3553;Female;43;0;0;Yes;Govt_job;Urban;104,55;23,90;smokes;0
+3590;Female;28;1;0;No;Private;Rural;80,40;57,50;never smoked;0
+3595;Male;32;0;0;Yes;Private;Urban;97,95;40,20;smokes;0
+3623;Female;37;0;0;Yes;Self-employed;Urban;95,08;34,10;never smoked;0
+3655;Male;31;0;0;Yes;Govt_job;Rural;91,65;24,60;formerly smoked;0
+3700;Male;37;0;0;Yes;Private;Urban;232,29;40,80;smokes;0
+3718;Female;46;0;0;Yes;Govt_job;Urban;111,10;23,30;smokes;0
+3761;Female;50;0;0;Yes;Self-employed;Rural;95,25;24,30;never smoked;0
+3777;Female;28;1;0;Yes;Govt_job;Rural;83,66;36,40;never smoked;0
+3843;Female;24;0;0;No;Private;Urban;73,49;23,50;never smoked;0
+3946;Female;22;0;0;Yes;Private;Urban;89,06;27,70;never smoked;0
+3980;Female;27;0;0;No;Private;Rural;80,22;21,60;never smoked;0
+3984;Female;33;0;0;Yes;Private;Rural;84,13;26,30;never smoked;0
+4083;Female;30;0;0;No;Private;Rural;73,69;17,30;never smoked;0
+4169;Female;37;0;0;No;Private;Rural;92,78;54,20;never smoked;0
+4174;Female;45;1;0;Yes;Private;Urban;93,21;43,80;never smoked;0
+4211;Male;26;0;0;No;Govt_job;Rural;100,85;21,00;smokes;0
+4213;Male;33;0;0;No;Self-employed;Rural;91,53;38,80;formerly smoked;0
+4400;Female;36;0;0;Yes;Private;Urban;68,48;24,30;never smoked;0
+4449;Male;48;0;0;Yes;Govt_job;Rural;124,64;26,40;smokes;0
+4528;Male;45;1;0;No;Private;Rural;85,52;36,40;never smoked;0
+4627;Male;34;0;0;No;Private;Urban;69,09;36,90;formerly smoked;0
+4655;Male;49;0;0;Yes;Private;Urban;79,51;37,80;never smoked;0
+4679;Female;38;0;0;Yes;Private;Rural;100,05;20,80;smokes;0
+4683;Male;23;0;0;No;Private;Urban;115,98;22,30;never smoked;0
+4699;Male;50;0;0;No;Govt_job;Rural;121,17;25,50;formerly smoked;0
+4727;Female;33;0;0;Yes;Govt_job;Rural;81,00;30,20;formerly smoked;0
+4740;Female;24;0;0;No;Private;Urban;86,35;32,70;never smoked;0
+4807;Male;34;0;0;No;Private;Urban;108,47;30,40;smokes;0
+4813;Male;27;0;0;No;Private;Urban;112,98;44,70;never smoked;0
+4838;Female;50;0;0;Yes;Govt_job;Urban;82,37;30,70;never smoked;0
+4861;Female;30;0;0;Yes;Private;Urban;70,67;24,60;smokes;0
+4949;Male;49;0;0;Yes;Private;Rural;96,35;35,90;never smoked;0
+5006;Female;46;0;0;Yes;Self-employed;Rural;85,84;21,20;never smoked;0
+5032;Female;47;0;0;Yes;Private;Rural;65,01;21,70;formerly smoked;0
+5068;Female;28;0;0;No;Private;Urban;76,81;28,30;smokes;0
+5074;Male;24;0;0;No;Private;Rural;200,14;37,70;smokes;0
+5236;Female;49;0;0;Yes;Private;Rural;73,48;33,00;never smoked;0
+5286;Female;40;0;0;Yes;Govt_job;Urban;176,38;35,70;never smoked;0
+5296;Female;44;0;0;No;Private;Urban;76,30;30,50;never smoked;0
+5319;Male;48;0;0;Yes;Private;Rural;98,24;34,60;never smoked;0
+5350;Female;36;0;0;Yes;Private;Rural;103,76;27,10;never smoked;0
+5374;Male;23;0;0;No;Private;Rural;93,74;31,20;never smoked;0
+5380;Female;26;0;0;Yes;Private;Urban;91,35;23,80;never smoked;0
+5500;Female;50;0;1;Yes;Govt_job;Urban;68,09;35,50;smokes;0
+5545;Male;48;0;0;Yes;Self-employed;Urban;99,67;23,30;formerly smoked;0
+5581;Female;39;0;0;Yes;Private;Rural;89,32;31,00;formerly smoked;0
+5681;Male;46;0;0;Yes;Private;Rural;111,78;39,40;smokes;0
+5714;Female;49;1;0;Yes;Govt_job;Rural;98,90;35,50;never smoked;0
+5723;Female;50;0;0;Yes;Private;Urban;91,08;26,40;never smoked;0
+5780;Female;47;0;0;Yes;Private;Urban;74,63;45,30;never smoked;0
+5834;Female;27;0;0;No;Govt_job;Urban;85,53;26,90;smokes;0
+5841;Female;23;0;0;No;Private;Urban;86,11;22,30;never smoked;0
+5858;Male;32;0;0;No;Private;Rural;93,68;31,40;never smoked;0
+5875;Female;37;0;0;Yes;Private;Urban;103,66;36,10;smokes;0
+5951;Male;28;1;0;No;Private;Urban;86,61;38,60;smokes;0
+5973;Male;43;0;0;Yes;Private;Urban;86,78;23,50;smokes;0
+6044;Male;22;0;0;No;Govt_job;Rural;94,33;23,10;never smoked;0
+6174;Female;35;0;0;No;Private;Urban;71,59;40,30;never smoked;0
+6304;Male;48;1;0;Yes;Self-employed;Urban;79,20;32,50;never smoked;0
+6372;Female;32;0;0;Yes;Private;Urban;97,14;55,90;never smoked;0
+6493;Male;31;0;0;No;Private;Urban;97,78;22,60;smokes;0
+6517;Female;24;0;0;Yes;Govt_job;Urban;83,10;42,50;smokes;0
+6563;Female;44;0;0;No;Private;Rural;78,18;32,20;never smoked;0
+6574;Female;35;0;0;Yes;Self-employed;Urban;103,29;20,60;never smoked;0
+6576;Female;33;0;0;Yes;Private;Urban;84,48;23,20;formerly smoked;0
+6726;Female;31;0;0;Yes;Private;Urban;73,31;45,00;never smoked;0
+6827;Male;30;0;0;Yes;Private;Urban;96,02;29,80;never smoked;0
+6844;Male;33;0;0;Yes;Private;Urban;98,74;44,40;never smoked;0
+6879;Female;44;0;0;No;Govt_job;Urban;215,90;41,80;smokes;0
+6924;Female;32;0;0;Yes;Private;Rural;102,87;26,60;smokes;0
+6928;Male;44;0;0;Yes;Private;Rural;119,01;29,50;never smoked;0
+6976;Female;40;0;0;Yes;Private;Urban;93,97;23,60;never smoked;0
+7003;Female;27;0;0;Yes;Private;Rural;111,96;28,20;never smoked;0
+7047;Female;31;0;0;Yes;Private;Rural;69,72;39,50;smokes;0
+7069;Female;41;0;0;Yes;Private;Rural;102,39;40,40;formerly smoked;0
+7092;Female;27;0;0;Yes;Private;Rural;94,25;37,60;never smoked;0
+7195;Male;50;0;1;No;Private;Urban;85,82;31,90;never smoked;0
+7230;Male;48;0;0;Yes;Govt_job;Rural;76,58;27,40;never smoked;0
+7282;Male;44;0;0;Yes;Private;Rural;81,84;25,10;never smoked;0
+7344;Male;38;0;0;Yes;Govt_job;Rural;237,74;21,20;never smoked;0
+7446;Male;44;0;0;Yes;Private;Urban;83,51;31,20;never smoked;0
+7453;Female;44;0;0;Yes;Private;Urban;84,07;21,20;smokes;0
+7476;Male;32;0;0;No;Govt_job;Rural;91,93;30,20;never smoked;0
+7586;Male;24;0;0;No;Self-employed;Rural;111,33;29,60;formerly smoked;0
+7683;Male;49;0;0;Yes;Self-employed;Rural;220,47;36,40;smokes;0
+7730;Male;31;0;0;No;Private;Rural;94,96;54,70;smokes;0
+7745;Female;35;0;0;Yes;Private;Urban;109,03;19,50;formerly smoked;0
+7789;Female;31;0;0;Yes;Private;Urban;89,01;37,40;never smoked;0
+7806;Female;42;0;0;Yes;Private;Urban;158,89;37,60;smokes;0
+7841;Female;50;0;0;Yes;Private;Urban;91,68;22,40;never smoked;0
+7871;Female;40;0;0;Yes;Private;Urban;86,78;35,50;smokes;0
+7953;Female;45;0;0;Yes;Private;Rural;92,21;31,00;never smoked;0
+7964;Male;24;0;0;No;Private;Urban;97,47;24,20;formerly smoked;0
+7979;Female;26;0;0;No;Private;Rural;69,77;23,20;never smoked;0
+8096;Female;49;0;0;Yes;Private;Urban;101,02;24,20;smokes;0
+8106;Female;42;0;0;Yes;Private;Rural;84,60;27,00;smokes;0
+8145;Male;30;0;0;No;Private;Urban;86,21;28,80;smokes;0
+8168;Female;34;0;0;Yes;Private;Rural;112,54;23,40;formerly smoked;0
+8240;Female;37;0;0;Yes;Private;Urban;100,22;22,70;smokes;0
+8332;Female;50;0;0;Yes;Private;Rural;206,25;53,40;formerly smoked;0
+8345;Female;49;0;0;Yes;Private;Rural;114,76;24,70;never smoked;0
+8544;Female;24;0;0;No;Self-employed;Rural;115,03;23,40;never smoked;0
+8595;Male;25;0;0;Yes;Private;Rural;95,59;25,10;never smoked;0
+8598;Female;35;0;0;Yes;Govt_job;Urban;82,39;33,20;never smoked;0
+8616;Female;50;0;0;Yes;Private;Rural;68,41;23,90;smokes;0
+8727;Male;46;0;0;Yes;Self-employed;Urban;83,12;29,60;formerly smoked;0
+8760;Female;22;0;0;No;Private;Urban;140,40;23,00;smokes;0
+8838;Female;36;0;0;No;Private;Rural;66,55;32,80;smokes;0
+8882;Male;22;0;0;No;Govt_job;Rural;96,18;25,10;never smoked;0
+8899;Male;49;0;0;No;Private;Rural;104,86;31,90;smokes;1
+8960;Female;42;0;0;No;Self-employed;Rural;73,41;56,00;smokes;0
+8964;Female;34;0;0;No;Private;Rural;94,37;38,10;never smoked;0
+8976;Female;35;0;0;Yes;Private;Rural;104,40;24,40;never smoked;0
+9013;Female;35;0;0;Yes;Private;Rural;83,27;19,80;formerly smoked;0
+9051;Female;50;0;0;Yes;Private;Urban;75,88;30,00;never smoked;0
+9122;Male;25;0;0;Yes;Private;Urban;89,87;26,50;never smoked;0
+9179;Female;32;0;0;No;Private;Urban;74,20;23,00;smokes;0
+9201;Female;44;0;0;Yes;Self-employed;Urban;114,94;21,40;never smoked;0
+9262;Female;31;0;0;Yes;Private;Rural;76,26;35,60;never smoked;0
+9335;Female;31;0;0;No;Private;Rural;116,85;49,90;smokes;0
+9404;Female;44;0;0;Yes;Private;Rural;107,41;47,30;never smoked;0
+9487;Female;23;0;0;No;Private;Urban;99,92;25,80;never smoked;0
+9565;Female;39;0;0;No;Private;Rural;79,00;30,00;never smoked;0
+9608;Male;24;0;0;No;Private;Urban;123,10;37,90;never smoked;0
+9620;Female;43;0;0;Yes;Govt_job;Rural;81,77;25,40;never smoked;0
+9637;Male;26;0;0;Yes;Private;Rural;120,31;22,30;smokes;0
+9696;Male;39;0;0;Yes;Private;Urban;102,77;35,80;smokes;0
+9730;Male;27;0;0;Yes;Private;Urban;76,19;22,00;never smoked;0
+10056;Female;37;0;0;Yes;Private;Urban;98,02;20,40;never smoked;0
+10133;Male;46;0;0;Yes;Private;Urban;85,35;32,10;smokes;0
+10138;Female;41;0;0;Yes;Private;Urban;74,85;24,80;formerly smoked;0
+10159;Male;41;0;0;Yes;Private;Urban;99,80;31,60;never smoked;0
+10333;Female;45;0;0;Yes;Private;Urban;90,35;22,30;never smoked;0
+10374;Female;24;0;0;Yes;Private;Rural;76,42;24,80;smokes;0
+10381;Female;38;1;0;Yes;Self-employed;Urban;91,00;33,30;never smoked;0
+10436;Female;29;0;0;Yes;Private;Rural;102,07;31,80;never smoked;0
+10449;Female;24;0;0;Yes;Private;Urban;75,23;29,00;never smoked;0
+10624;Male;24;0;0;Yes;Private;Rural;73,78;21,40;smokes;0
+10626;Female;31;0;0;No;Private;Rural;70,51;26,90;formerly smoked;0
+10716;Female;49;0;0;Yes;Private;Rural;107,46;32,10;never smoked;0
+10792;Female;23;0;0;No;Private;Rural;79,13;32,90;formerly smoked;0
+10826;Female;39;0;0;Yes;Self-employed;Urban;82,85;22,90;smokes;0
+10943;Female;40;0;0;Yes;Govt_job;Rural;110,60;33,30;formerly smoked;0
+10973;Male;43;0;0;Yes;Private;Urban;91,13;33,90;never smoked;0
+10997;Female;38;0;0;Yes;Private;Rural;98,73;24,30;never smoked;0
+11134;Male;43;0;0;Yes;Private;Rural;77,86;28,90;never smoked;0
+11192;Female;45;0;0;Yes;Private;Rural;218,10;55,00;smokes;0
+11232;Male;47;0;0;Yes;Private;Rural;93,55;31,40;never smoked;0
+11280;Female;28;0;0;Yes;Private;Urban;98,05;24,70;never smoked;0
+11313;Female;44;0;0;Yes;Private;Rural;86,15;21,30;never smoked;0
+11447;Female;41;0;0;Yes;Govt_job;Urban;80,28;37,30;never smoked;0
+11450;Female;41;0;0;Yes;Self-employed;Urban;98,85;24,60;never smoked;0
+11539;Female;24;1;0;No;Private;Urban;107,22;35,30;smokes;0
+11544;Female;34;0;0;Yes;Private;Urban;71,37;32,90;never smoked;0
+11605;Female;26;0;0;No;Private;Rural;108,20;26,20;never smoked;0
+11630;Female;25;0;0;No;Private;Urban;92,06;25,30;smokes;0
+11651;Female;25;0;0;Yes;Private;Rural;81,21;37,90;never smoked;0
+11726;Female;49;0;0;Yes;Govt_job;Rural;83,84;19,30;formerly smoked;0
+11727;Male;39;0;0;Yes;Self-employed;Urban;74,29;29,30;smokes;0
+11743;Female;32;0;0;Yes;Private;Urban;91,34;25,50;formerly smoked;0
+11745;Female;29;0;0;Yes;Private;Urban;65,36;28,80;formerly smoked;0
+11816;Female;46;0;0;Yes;Self-employed;Urban;71,12;27,30;never smoked;0
+11838;Female;43;0;0;Yes;Govt_job;Rural;70,08;26,60;never smoked;0
+11882;Male;34;0;0;No;Private;Urban;94,15;28,60;never smoked;0
+11898;Female;41;0;0;Yes;Private;Urban;87,06;30,00;never smoked;0
+11960;Male;45;0;0;Yes;Private;Rural;99,97;35,60;never smoked;0
+11962;Male;36;0;0;Yes;Private;Urban;89,33;30,70;never smoked;0
+11969;Female;50;0;0;Yes;Self-employed;Urban;110,18;26,00;formerly smoked;0
+12022;Male;37;0;0;Yes;Govt_job;Urban;82,09;35,70;smokes;0
+12259;Male;50;0;0;Yes;Private;Urban;77,82;26,70;formerly smoked;0
+12298;Male;26;0;0;No;Self-employed;Urban;200,28;31,90;formerly smoked;0
+12380;Male;43;0;0;Yes;Govt_job;Rural;83,78;21,60;never smoked;0
+12469;Female;30;0;0;Yes;Private;Urban;74,43;44,80;never smoked;0
+12594;Female;28;0;0;Yes;Private;Rural;105,90;28,60;smokes;0
+12600;Female;42;0;0;Yes;Self-employed;Rural;79,99;26,30;never smoked;0
+12674;Male;44;0;0;Yes;Private;Rural;74,15;34,50;formerly smoked;0
+12686;Male;50;0;0;No;Govt_job;Rural;92,81;26,60;never smoked;0
+12741;Female;25;0;0;Yes;Private;Rural;97,52;45,50;formerly smoked;0
+12834;Male;45;0;0;Yes;Private;Urban;115,52;33,90;formerly smoked;0
+12992;Female;49;0;0;Yes;Private;Rural;96,85;35,50;never smoked;0
+13049;Female;50;0;0;Yes;Private;Rural;114,05;32,50;never smoked;0
+13072;Female;35;0;0;Yes;Self-employed;Urban;70,87;22,10;formerly smoked;0
+13116;Male;49;0;0;Yes;Private;Urban;87,06;28,30;never smoked;0
+13191;Female;24;0;0;No;Private;Rural;120,77;16,90;never smoked;0
+13270;Female;40;0;0;No;Govt_job;Urban;90,21;41,20;never smoked;0
+13365;Male;50;0;0;Yes;Private;Rural;77,65;24,40;smokes;0
+13374;Male;48;0;0;Yes;Private;Urban;100,03;23,50;never smoked;0
+13529;Female;36;0;0;Yes;Govt_job;Rural;129,43;29,70;never smoked;0
+13547;Female;37;0;0;Yes;Private;Urban;91,72;29,20;never smoked;0
+13683;Female;31;0;0;Yes;Private;Urban;109,68;41,80;never smoked;0
+13736;Male;24;0;0;Yes;Private;Urban;94,66;32,10;formerly smoked;0
+13749;Female;38;0;0;Yes;Private;Rural;84,79;24,20;formerly smoked;0
+13846;Male;43;0;0;Yes;Govt_job;Rural;88,00;30,60;never smoked;0
+13859;Female;31;0;0;No;Private;Urban;102,39;22,90;smokes;0
+13899;Male;30;0;0;Yes;Private;Urban;79,55;33,70;never smoked;0
+13949;Female;44;0;0;Yes;Govt_job;Urban;67,06;35,50;never smoked;0
+13964;Female;42;0;0;Yes;Private;Rural;107,91;20,50;never smoked;0
+13988;Female;46;0;0;Yes;Private;Rural;75,09;28,70;never smoked;0
+13997;Male;38;0;0;Yes;Private;Urban;88,97;30,20;never smoked;0
+14089;Female;46;0;0;Yes;Private;Urban;78,79;42,40;smokes;0
+14123;Female;22;0;0;Yes;Private;Rural;105,22;31,10;never smoked;0
+14147;Male;49;0;0;Yes;Private;Urban;186,32;43,80;smokes;0
+14222;Female;25;0;0;No;Private;Urban;78,59;37,20;never smoked;0
+14248;Male;48;0;0;No;Govt_job;Urban;84,20;29,70;never smoked;1
+14372;Male;50;0;0;Yes;Self-employed;Urban;192,16;43,60;never smoked;0
+14376;Male;47;0;0;Yes;Private;Rural;88,49;22,20;smokes;0
+14391;Female;30;0;0;Yes;Private;Rural;89,63;23,20;smokes;0
+14399;Female;41;0;0;Yes;Private;Urban;92,14;29,60;formerly smoked;0
+14414;Female;34;0;0;Yes;Private;Rural;85,79;32,00;never smoked;0
+14491;Male;38;0;0;Yes;Govt_job;Urban;70,53;40,90;smokes;0
+14499;Male;47;0;0;Yes;Private;Urban;86,94;41,10;formerly smoked;1
+14615;Female;30;0;0;No;Private;Urban;75,19;37,00;smokes;0
+14677;Female;33;0;0;Yes;Self-employed;Rural;99,30;21,40;never smoked;0
+14688;Female;44;0;0;Yes;Private;Urban;73,87;28,80;smokes;0
+14709;Male;44;0;0;Yes;Private;Urban;99,34;33,10;never smoked;0
+14785;Female;41;0;0;Yes;Private;Rural;92,64;43,80;never smoked;0
+14807;Female;40;0;0;Yes;Private;Urban;75,87;30,30;never smoked;0
+14892;Female;46;1;0;Yes;Private;Rural;81,58;36,20;never smoked;0
+14912;Female;42;0;0;Yes;Private;Rural;80,00;27,50;never smoked;0
+14918;Female;41;0;0;Yes;Private;Urban;65,67;26,70;smokes;0
+14924;Male;48;0;0;Yes;Private;Urban;72,36;34,70;smokes;0
+14928;Female;26;0;0;No;Private;Urban;81,94;26,00;smokes;0
+15018;Female;23;0;0;No;Govt_job;Urban;84,46;28,40;formerly smoked;0
+15062;Male;40;0;0;Yes;Govt_job;Urban;82,46;25,30;smokes;0
+15104;Female;26;0;0;Yes;Private;Rural;88,79;24,90;never smoked;0
+15117;Female;23;0;0;No;Private;Rural;95,66;19,90;smokes;0
+15219;Female;27;0;0;No;Private;Rural;78,05;22,30;never smoked;0
+15266;Female;32;0;0;Yes;Private;Rural;77,67;32,30;smokes;0
+15296;Female;42;0;0;Yes;Private;Rural;112,06;38,20;never smoked;0
+15310;Female;45;0;0;Yes;Private;Urban;110,47;24,70;smokes;0
+15311;Female;24;0;0;Yes;Private;Urban;89,99;24,40;formerly smoked;0
+15351;Male;37;0;0;Yes;Private;Rural;91,68;32,40;formerly smoked;0
+15383;Female;29;0;0;Yes;Private;Urban;118,44;24,80;never smoked;0
+15415;Male;41;1;1;Yes;Private;Urban;94,47;43,90;never smoked;0
+15422;Male;31;0;0;No;Govt_job;Rural;80,57;28,20;formerly smoked;0
+15440;Female;36;0;0;Yes;Private;Rural;114,16;21,30;smokes;0
+15517;Female;35;0;0;Yes;Private;Urban;81,90;24,50;never smoked;0
+15533;Male;46;0;0;No;Private;Urban;107,59;26,20;formerly smoked;0
+15539;Female;41;0;0;Yes;Private;Rural;97,41;25,50;never smoked;0
+15553;Female;45;0;0;Yes;Private;Rural;89,21;21,60;formerly smoked;0
+15566;Male;39;0;0;Yes;Private;Rural;91,85;24,70;smokes;0
+15601;Female;50;0;0;Yes;Private;Urban;93,51;30,90;smokes;0
+15689;Male;42;0;0;Yes;Govt_job;Urban;68,19;31,00;never smoked;0
+15746;Female;45;0;0;Yes;Govt_job;Urban;79,47;28,10;never smoked;0
+15752;Male;39;0;0;Yes;Private;Urban;90,36;30,80;formerly smoked;0
+15929;Male;38;0;0;Yes;Govt_job;Rural;98,92;25,50;never smoked;0
+15937;Male;45;1;0;Yes;Self-employed;Rural;74,28;37,20;formerly smoked;0
+15969;Female;41;0;0;Yes;Self-employed;Rural;102,89;37,20;formerly smoked;0
+16010;Male;47;0;0;Yes;Private;Rural;91,05;31,10;formerly smoked;0
+16028;Female;45;0;0;Yes;Private;Rural;77,19;37,20;smokes;0
+16113;Female;47;0;0;Yes;Govt_job;Rural;100,41;23,80;never smoked;0
+16420;Female;45;0;0;Yes;Private;Urban;108,03;37,30;never smoked;0
+16433;Female;36;0;0;Yes;Private;Rural;107,99;25,50;never smoked;0
+16449;Female;33;0;0;Yes;Govt_job;Rural;76,66;24,80;never smoked;0
+16535;Female;34;0;0;No;Private;Rural;90,15;27,90;formerly smoked;0
+16536;Female;42;0;0;Yes;Self-employed;Rural;75,34;38,00;never smoked;0
+16582;Male;26;0;0;Yes;Private;Rural;95,57;30,70;smokes;0
+16629;Female;29;0;0;Yes;Private;Urban;112,08;27,40;never smoked;0
+16738;Female;42;0;0;Yes;Private;Rural;96,86;29,30;never smoked;0
+16809;Male;41;0;0;Yes;Private;Urban;111,71;38,90;formerly smoked;0
+16847;Male;47;0;0;No;Private;Rural;101,99;36,30;never smoked;0
+16906;Male;43;0;0;Yes;Govt_job;Urban;101,65;30,00;never smoked;0
+16938;Female;40;0;0;Yes;Self-employed;Rural;212,97;49,80;formerly smoked;0
+16971;Female;26;0;0;No;Private;Urban;100,31;38,60;never smoked;0
+17019;Female;30;0;0;Yes;Govt_job;Urban;113,85;34,00;never smoked;0
+17079;Male;44;0;0;Yes;Private;Rural;94,71;28,40;smokes;0
+17130;Female;23;0;0;No;Private;Rural;76,56;30,10;never smoked;0
+17231;Female;24;0;0;No;Private;Urban;90,42;24,30;never smoked;0
+17245;Female;28;0;0;Yes;Private;Rural;87,01;39,90;never smoked;0
+17295;Female;31;0;0;Yes;Self-employed;Urban;206,59;41,40;smokes;0
+17347;Female;45;0;0;Yes;Govt_job;Urban;85,64;32,00;formerly smoked;0
+17441;Female;31;0;0;No;Self-employed;Rural;75,27;27,30;never smoked;0
+17478;Male;44;0;0;Yes;Govt_job;Urban;101,66;35,40;never smoked;0
+17639;Male;44;0;0;Yes;Govt_job;Rural;87,49;26,60;never smoked;0
+17668;Male;26;0;0;Yes;Self-employed;Urban;73,72;25,90;smokes;0
+17718;Female;33;1;0;Yes;Private;Urban;74,44;45,20;smokes;0
+17791;Female;29;0;0;Yes;Govt_job;Rural;92,49;22,20;never smoked;0
+17951;Male;27;0;0;No;Self-employed;Rural;110,87;29,50;smokes;0
+18040;Female;49;0;0;Yes;Govt_job;Rural;89,61;27,70;never smoked;0
+18070;Female;27;0;0;No;Private;Rural;73,00;20,00;never smoked;0
+18140;Female;33;0;0;Yes;Private;Rural;131,28;25,10;never smoked;0
+18178;Female;48;0;0;Yes;Private;Urban;86,06;36,20;never smoked;0
+18181;Male;44;0;0;Yes;Private;Rural;105,49;31,50;smokes;0
+18306;Female;30;0;0;No;Private;Rural;93,88;24,00;formerly smoked;0
+18398;Female;42;0;0;Yes;Private;Rural;108,96;27,50;never smoked;0
+18437;Male;26;0;0;No;Private;Urban;85,92;35,60;smokes;0
+18498;Female;44;0;0;No;Private;Rural;103,78;49,80;formerly smoked;0
+18636;Female;26;0;0;Yes;Govt_job;Urban;72,56;35,40;never smoked;0
+18671;Female;47;0;0;Yes;Govt_job;Rural;111,68;39,50;never smoked;0
+18790;Male;25;0;0;No;Private;Urban;85,96;34,50;formerly smoked;0
+18805;Male;39;0;0;Yes;Private;Urban;95,44;38,40;never smoked;0
+18820;Male;31;0;0;No;Private;Rural;108,56;21,80;never smoked;0
+18876;Female;28;0;0;Yes;Private;Urban;69,50;24,50;never smoked;0
+18891;Male;24;0;0;No;Govt_job;Rural;99,65;50,30;never smoked;0
+18986;Female;45;0;0;No;Self-employed;Urban;88,47;29,30;never smoked;0
+19043;Female;40;0;0;No;Private;Rural;99,00;25,00;never smoked;0
+19209;Female;48;0;0;Yes;Govt_job;Rural;255,17;38,10;formerly smoked;0
+19382;Female;50;0;0;Yes;Private;Rural;93,47;28,70;never smoked;0
+19389;Female;42;0;1;Yes;Govt_job;Urban;226,93;34,20;smokes;0
+19508;Female;26;0;0;No;Private;Urban;116,68;18,70;formerly smoked;0
+19550;Male;39;0;0;Yes;Private;Urban;217,75;39,50;never smoked;0
+19557;Female;45;0;0;Yes;Private;Rural;93,72;30,20;formerly smoked;1
+19590;Male;48;0;0;Yes;Govt_job;Urban;78,24;32,90;never smoked;0
+19699;Female;50;0;0;No;Private;Urban;85,77;21,10;never smoked;0
+19723;Female;35;0;0;Yes;Self-employed;Rural;82,99;30,60;never smoked;0
+19742;Female;37;0;0;Yes;Private;Urban;106,35;29,70;never smoked;0
+19801;Female;44;0;0;Yes;Private;Rural;98,30;25,00;never smoked;0
+19814;Female;43;0;0;No;Private;Urban;71,77;26,90;never smoked;0
+19939;Female;46;0;0;Yes;Private;Rural;78,75;37,80;formerly smoked;0
+20044;Female;47;0;0;Yes;Private;Rural;98,58;23,20;never smoked;0
+20098;Female;31;0;0;Yes;Self-employed;Rural;108,64;43,30;never smoked;0
+20217;Female;38;0;0;Yes;Govt_job;Urban;102,84;22,40;never smoked;0
+20256;Male;34;0;0;Yes;Private;Urban;80,97;28,70;never smoked;0
+20258;Male;25;0;0;No;Private;Urban;87,17;25,10;never smoked;0
+20292;Female;24;0;0;Yes;Private;Urban;85,55;63,30;never smoked;0
+20310;Male;25;0;0;No;Govt_job;Urban;75,50;24,60;never smoked;0
+20370;Female;50;0;0;Yes;Self-employed;Rural;103,81;28,30;never smoked;0
+20376;Male;40;0;0;Yes;Self-employed;Urban;70,07;27,60;smokes;0
+20421;Female;43;0;0;Yes;Private;Rural;68,94;26,80;never smoked;0
+20425;Male;43;0;0;Yes;Self-employed;Rural;99,15;30,50;formerly smoked;0
+20468;Female;32;0;0;Yes;Private;Urban;80,80;44,80;never smoked;0
+20673;Male;39;0;0;Yes;Private;Rural;102,35;23,60;never smoked;0
+20676;Male;29;0;0;No;Private;Rural;94,69;28,40;smokes;0
+20740;Female;50;0;0;Yes;Self-employed;Rural;84,88;27,10;never smoked;0
+20751;Female;26;0;0;Yes;Private;Rural;75,29;22,60;smokes;0
+20973;Male;45;0;0;Yes;Govt_job;Rural;86,99;37,90;never smoked;0
+20979;Female;39;0;0;No;Private;Rural;90,11;23,60;never smoked;0
+21036;Female;47;0;0;Yes;Private;Urban;131,43;24,30;never smoked;0
+21067;Female;45;0;0;Yes;Self-employed;Urban;110,10;30,90;never smoked;0
+21110;Female;43;0;0;Yes;Private;Urban;93,30;32,70;never smoked;0
+21117;Female;36;0;0;No;Self-employed;Rural;77,12;28,40;never smoked;0
+21130;Male;33;0;0;Yes;Self-employed;Urban;229,92;25,90;smokes;0
+21202;Female;27;0;0;Yes;Private;Urban;80,57;39,80;smokes;0
+21206;Female;29;0;0;No;Private;Rural;86,55;29,80;smokes;0
+21238;Female;43;0;0;Yes;Private;Urban;74,86;26,90;never smoked;0
+21284;Female;32;0;0;Yes;Private;Urban;98,09;25,20;smokes;0
+21292;Male;38;0;0;Yes;Private;Rural;111,33;27,00;never smoked;0
+21366;Female;50;0;0;Yes;Private;Urban;103,72;35,40;formerly smoked;0
+21374;Female;40;0;0;Yes;Private;Urban;74,65;25,30;formerly smoked;0
+21407;Male;39;0;0;Yes;Private;Rural;117,03;40,30;formerly smoked;0
+21408;Female;39;0;0;Yes;Self-employed;Rural;89,86;24,40;never smoked;0
+21523;Female;22;0;0;No;Govt_job;Urban;87,25;24,90;smokes;0
+21547;Female;46;0;0;Yes;Govt_job;Urban;75,28;36,70;formerly smoked;0
+21678;Male;33;0;0;Yes;Private;Urban;90,73;32,80;smokes;0
+21688;Female;42;0;0;Yes;Private;Rural;88,31;24,00;smokes;0
+21724;Female;42;0;0;Yes;Self-employed;Urban;124,34;34,70;formerly smoked;0
+21785;Female;33;0;0;No;Private;Urban;78,34;25,50;never smoked;0
+21834;Female;36;0;0;Yes;Private;Urban;84,70;34,00;never smoked;0
+21886;Female;40;0;0;Yes;Private;Urban;71,20;27,10;never smoked;0
+22098;Female;29;0;0;Yes;Self-employed;Rural;69,12;26,80;never smoked;0
+22151;Female;28;0;0;No;Govt_job;Rural;77,99;32,00;smokes;0
+22221;Female;35;0;0;Yes;Self-employed;Urban;65,33;26,10;never smoked;0
+22290;Female;32;0;0;Yes;Private;Urban;104,92;22,60;never smoked;0
+22320;Female;37;0;0;Yes;Private;Urban;203,81;46,60;never smoked;0
+22321;Female;44;0;0;Yes;Private;Urban;124,06;20,80;never smoked;0
+22352;Female;39;0;0;Yes;Self-employed;Urban;87,79;40,00;formerly smoked;0
+22363;Female;47;0;0;Yes;Private;Rural;195,04;45,50;never smoked;0
+22370;Male;36;1;0;No;Govt_job;Urban;113,05;31,00;smokes;0
+22384;Female;24;0;0;Yes;Private;Rural;97,92;23,10;never smoked;0
+22440;Female;49;0;0;Yes;Private;Urban;267,76;29,30;formerly smoked;0
+22515;Female;38;1;0;Yes;Private;Rural;118,55;38,40;smokes;0
+22548;Female;34;0;0;Yes;Private;Urban;91,02;25,80;never smoked;0
+22607;Female;41;0;0;Yes;Private;Urban;103,79;28,60;never smoked;0
+22691;Female;29;0;0;Yes;Self-employed;Urban;90,52;28,00;never smoked;0
+22778;Male;34;0;0;Yes;Private;Urban;66,96;26,10;never smoked;0
+22804;Female;25;0;0;No;Private;Rural;111,65;35,20;formerly smoked;0
+22891;Female;42;0;0;Yes;Self-employed;Urban;98,76;26,40;smokes;0
+22897;Male;39;0;0;Yes;Private;Rural;84,09;31,10;formerly smoked;0
+22902;Male;41;1;0;Yes;Private;Urban;69,52;31,90;never smoked;0
+22964;Male;44;0;0;Yes;Govt_job;Rural;69,23;28,70;smokes;0
+22969;Female;26;0;0;Yes;Private;Rural;91,88;24,90;formerly smoked;0
+23009;Male;46;0;0;Yes;Private;Urban;91,08;27,70;never smoked;0
+23026;Female;48;0;0;Yes;Private;Rural;99,07;22,10;never smoked;0
+23046;Female;43;0;0;Yes;Self-employed;Urban;98,09;17,30;never smoked;0
+23047;Male;43;0;0;Yes;Private;Urban;100,16;59,70;never smoked;0
+23170;Female;36;0;0;No;Private;Urban;96,10;29,60;never smoked;0
+23210;Male;31;0;0;No;Private;Rural;77,95;25,10;never smoked;0
+23221;Male;29;0;0;No;Private;Urban;83,51;37,10;never smoked;0
+23240;Female;41;0;0;Yes;Private;Rural;91,46;29,50;never smoked;0
+23332;Female;42;0;0;Yes;Private;Rural;94,38;34,00;never smoked;0
+23413;Female;26;0;0;No;Private;Urban;97,24;22,50;never smoked;0
+23449;Male;47;0;0;Yes;Self-employed;Rural;90,44;28,70;never smoked;0
+23459;Female;47;0;0;Yes;Private;Rural;75,43;36,40;smokes;0
+23561;Female;48;0;0;Yes;Private;Rural;84,56;41,80;never smoked;0
+23599;Female;30;0;0;No;Private;Urban;105,08;25,50;never smoked;0
+23600;Male;34;0;0;Yes;Private;Rural;71,94;31,40;smokes;0
+23633;Female;37;0;0;Yes;Private;Rural;83,65;42,10;smokes;0
+23645;Female;31;0;0;No;Private;Rural;91,08;34,30;never smoked;0
+23748;Female;31;0;0;Yes;Private;Urban;92,16;22,80;never smoked;0
+23890;Female;44;1;0;Yes;Govt_job;Rural;105,77;36,80;never smoked;0
+23893;Male;24;0;0;Yes;Private;Urban;103,45;25,10;smokes;0
+23911;Female;39;0;0;No;Private;Rural;89,57;48,10;never smoked;0
+23988;Female;45;0;0;Yes;Private;Rural;76,68;34,80;smokes;0
+24058;Female;50;0;0;Yes;Govt_job;Rural;77,67;25,60;never smoked;0
+24106;Female;33;0;0;Yes;Private;Rural;84,68;34,70;formerly smoked;0
+24174;Female;50;0;0;Yes;Govt_job;Rural;124,45;24,60;never smoked;0
+24201;Male;33;0;0;Yes;Private;Rural;93,80;23,90;never smoked;0
+24219;Male;25;0;0;Yes;Private;Urban;93,51;30,80;never smoked;0
+24256;Male;35;0;0;Yes;Private;Rural;108,08;30,60;formerly smoked;0
+24262;Female;31;0;0;Yes;Private;Rural;70,91;28,30;never smoked;0
+24361;Female;38;0;0;Yes;Private;Urban;87,94;43,80;never smoked;0
+24447;Female;42;0;0;Yes;Private;Rural;82,67;22,50;never smoked;0
+24552;Female;44;0;0;Yes;Private;Rural;72,03;37,50;smokes;0
+24585;Male;40;0;0;Yes;Govt_job;Urban;115,07;36,90;never smoked;0
+24674;Male;43;0;0;Yes;Private;Urban;81,94;27,70;smokes;0
+24782;Male;36;0;0;Yes;Private;Rural;83,79;25,50;smokes;0
+24783;Female;28;0;0;No;Private;Urban;87,91;22,70;formerly smoked;0
+24854;Female;24;0;0;No;Self-employed;Urban;79,42;21,40;never smoked;0
+24876;Male;35;0;0;Yes;Private;Urban;82,81;23,90;never smoked;0
+24920;Female;35;0;0;Yes;Govt_job;Rural;97,60;44,80;smokes;0
+24955;Female;22;0;0;No;Private;Rural;102,00;40,40;smokes;0
+24961;Female;38;0;0;Yes;Private;Rural;107,78;25,10;never smoked;0
+24965;Female;25;0;0;No;Govt_job;Rural;103,15;21,00;smokes;0
+25088;Female;40;0;0;No;Private;Rural;217,00;29,40;formerly smoked;0
+25095;Male;44;0;0;Yes;Govt_job;Urban;94,76;26,00;formerly smoked;0
+25099;Male;41;0;0;No;Govt_job;Rural;74,81;39,70;smokes;0
+25107;Female;47;0;0;Yes;Private;Urban;65,04;30,90;never smoked;0
+25218;Female;31;0;0;Yes;Govt_job;Urban;88,20;22,70;never smoked;0
+25219;Female;23;0;0;No;Private;Urban;100,54;22,10;smokes;0
+25283;Female;48;0;0;Yes;Private;Urban;69,21;33,10;never smoked;0
+25315;Male;31;0;0;Yes;Private;Urban;222,21;41,10;smokes;0
+25325;Female;42;0;0;Yes;Private;Rural;82,24;23,80;formerly smoked;0
+25408;Female;24;0;0;Yes;Self-employed;Rural;114,54;30,10;smokes;0
+25443;Male;50;0;0;No;Private;Urban;160,94;26,70;smokes;0
+25446;Female;45;0;0;Yes;Govt_job;Urban;79,98;41,40;never smoked;0
+25488;Female;46;0;0;Yes;Self-employed;Urban;94,63;24,90;never smoked;0
+25613;Female;27;0;0;Yes;Private;Urban;70,56;28,60;smokes;0
+25625;Female;45;0;0;No;Private;Rural;103,94;32,50;smokes;0
+25643;Male;36;0;0;Yes;Private;Rural;119,90;37,60;never smoked;0
+25718;Female;28;0;0;Yes;Private;Urban;100,80;39,30;formerly smoked;0
+25774;Male;35;0;0;No;Private;Rural;85,37;33,00;never smoked;0
+25833;Female;43;0;0;Yes;Private;Rural;107,43;26,50;never smoked;0
+25919;Male;48;1;0;Yes;Self-employed;Urban;83,34;49,30;never smoked;0
+25927;Male;36;0;0;Yes;Private;Rural;106,73;25,10;never smoked;0
+25930;Male;42;0;0;Yes;Private;Urban;68,24;33,10;formerly smoked;0
+25982;Male;24;0;0;No;Private;Rural;91,21;28,10;formerly smoked;0
+26025;Female;45;0;0;Yes;Govt_job;Urban;103,22;20,50;never smoked;0
+26062;Male;49;0;0;Yes;Private;Rural;78,04;37,90;never smoked;0
+26103;Male;36;0;0;Yes;Private;Rural;106,85;40,10;never smoked;0
+26172;Male;31;0;0;Yes;Private;Rural;100,39;37,00;never smoked;0
+26197;Female;38;0;0;Yes;Private;Rural;104,03;47,30;smokes;0
+26235;Male;23;0;0;No;Private;Rural;96,78;24,60;smokes;0
+26305;Male;29;0;0;No;Self-employed;Rural;96,77;30,30;formerly smoked;0
+26366;Female;27;0;0;No;Private;Rural;103,35;28,10;formerly smoked;0
+26452;Female;41;0;0;Yes;Private;Rural;104,36;30,20;never smoked;0
+26468;Female;45;0;0;Yes;Govt_job;Urban;82,02;41,80;smokes;0
+26503;Female;32;0;0;No;Private;Rural;77,16;35,20;smokes;0
+26594;Female;32;0;0;Yes;Private;Urban;92,75;34,50;smokes;0
+26605;Female;39;0;0;Yes;Private;Rural;102,51;26,60;smokes;0
+26692;Female;38;0;0;Yes;Govt_job;Rural;76,82;27,30;never smoked;0
+26777;Male;22;0;0;No;Private;Rural;86,53;20,80;never smoked;0
+26830;Female;47;0;0;Yes;Self-employed;Rural;68,37;29,40;smokes;0
+26862;Female;41;0;0;Yes;Govt_job;Rural;78,93;30,90;formerly smoked;0
+26935;Female;50;1;0;Yes;Private;Urban;213,43;36,70;smokes;0
+26973;Female;31;0;0;Yes;Private;Urban;106,51;40,20;never smoked;0
+26993;Female;41;0;0;Yes;Private;Rural;89,88;33,10;formerly smoked;0
+27012;Male;32;0;0;No;Private;Urban;94,34;30,20;formerly smoked;0
+27017;Male;28;0;0;No;Private;Urban;75,92;22,80;never smoked;0
+27119;Female;28;0;0;No;Private;Rural;104,16;21,50;never smoked;0
+27145;Female;26;0;0;No;Private;Rural;89,30;48,40;smokes;0
+27146;Female;23;0;0;No;Private;Rural;92,87;30,10;never smoked;0
+27380;Female;36;0;0;Yes;Private;Rural;74,14;31,20;formerly smoked;0
+27382;Female;50;0;0;Yes;Govt_job;Urban;92,15;20,80;never smoked;0
+27493;Female;45;0;0;Yes;Private;Urban;86,06;38,10;never smoked;0
+27572;Female;25;0;0;No;Private;Rural;92,82;24,10;never smoked;0
+27583;Male;49;0;0;Yes;Private;Rural;88,13;32,80;never smoked;0
+27616;Male;33;0;0;Yes;Govt_job;Rural;81,10;24,80;never smoked;0
+27664;Female;47;0;0;Yes;Private;Urban;86,99;28,90;smokes;0
+27721;Male;32;0;0;Yes;Private;Rural;83,13;32,00;smokes;0
+27757;Male;31;0;0;Yes;Private;Urban;88,78;35,80;smokes;0
+27801;Female;34;0;0;Yes;Private;Urban;113,26;27,60;never smoked;0
+27818;Female;27;0;0;No;Private;Rural;104,21;35,70;never smoked;0
+27853;Female;34;0;0;Yes;Self-employed;Rural;88,68;23,90;never smoked;0
+27854;Female;23;0;0;No;Private;Rural;96,28;31,10;never smoked;0
+27922;Male;32;0;0;Yes;Private;Rural;102,13;32,30;never smoked;0
+27954;Female;26;0;0;No;Private;Urban;114,18;23,30;never smoked;0
+28013;Female;38;0;0;Yes;Self-employed;Urban;98,37;27,20;never smoked;0
+28024;Male;49;0;0;Yes;Private;Rural;102,47;29,30;formerly smoked;0
+28027;Female;42;0;0;Yes;Govt_job;Urban;83,70;20,60;never smoked;0
+28091;Female;43;0;0;Yes;Govt_job;Urban;85,03;23,90;formerly smoked;0
+28102;Female;25;0;0;No;Private;Rural;66,30;27,20;never smoked;0
+28122;Female;37;0;0;Yes;Self-employed;Rural;77,44;21,40;formerly smoked;0
+28127;Female;44;0;0;Yes;Private;Rural;90,40;33,10;formerly smoked;0
+28227;Female;27;0;0;Yes;Private;Urban;71,50;40,30;smokes;0
+28265;Female;42;0;0;Yes;Self-employed;Rural;79,14;25,00;formerly smoked;0
+28286;Male;44;0;0;Yes;Private;Rural;74,91;37,50;never smoked;0
+28315;Male;38;0;0;Yes;Private;Rural;108,68;32,70;never smoked;0
+28385;Female;44;0;0;Yes;Private;Rural;100,08;20,90;smokes;0
+28414;Male;50;0;0;Yes;Private;Urban;103,48;29,10;smokes;0
+28418;Female;41;0;0;Yes;Private;Rural;107,18;22,80;never smoked;0
+28478;Female;31;0;0;Yes;Private;Urban;82,18;42,70;never smoked;0
+28645;Female;38;1;0;Yes;Private;Urban;196,01;28,10;never smoked;0
+28647;Female;35;0;0;Yes;Private;Urban;81,33;28,90;never smoked;0
+28711;Female;26;0;0;No;Private;Urban;89,28;21,70;smokes;0
+28725;Female;28;0;0;No;Private;Rural;89,24;32,70;formerly smoked;0
+28803;Male;31;0;0;Yes;Private;Urban;79,81;26,40;never smoked;0
+28932;Female;36;0;0;Yes;Private;Rural;67,29;36,70;formerly smoked;0
+28933;Female;46;0;0;Yes;Private;Rural;100,15;50,30;smokes;0
+28998;Male;25;0;0;No;Private;Rural;85,17;28,70;smokes;0
+29014;Female;23;0;0;Yes;Private;Rural;77,73;19,20;never smoked;0
+29028;Female;41;0;0;Yes;Private;Rural;91,04;24,50;never smoked;0
+29078;Male;39;0;0;Yes;Govt_job;Rural;73,07;26,80;smokes;0
+29134;Female;32;0;0;Yes;Private;Rural;85,62;46,10;smokes;0
+29221;Female;39;0;0;Yes;Private;Urban;92,82;37,40;never smoked;0
+29229;Male;32;0;0;Yes;Private;Urban;92,08;28,40;smokes;0
+29258;Female;37;0;0;No;Private;Urban;89,11;24,10;never smoked;0
+29267;Male;25;0;0;No;Private;Rural;229,94;23,50;never smoked;0
+29327;Female;30;0;0;No;Self-employed;Urban;65,84;24,80;smokes;0
+29352;Female;26;0;0;No;Private;Urban;84,86;37,60;never smoked;0
+29380;Female;42;1;0;Yes;Private;Rural;89,96;35,60;never smoked;0
+29419;Female;32;0;0;Yes;Private;Urban;81,92;38,00;never smoked;0
+29496;Female;39;0;0;Yes;Private;Rural;84,79;35,70;never smoked;0
+29514;Female;43;0;0;Yes;Private;Rural;97,55;28,30;formerly smoked;0
+29734;Female;45;0;0;No;Govt_job;Rural;77,45;42,20;formerly smoked;0
+29789;Female;46;0;0;Yes;Private;Rural;116,84;28,20;never smoked;0
+29804;Male;24;1;0;Yes;Private;Rural;80,63;28,20;smokes;0
+29863;Male;44;0;0;No;Private;Urban;103,44;28,00;never smoked;0
+29869;Male;49;0;0;Yes;Private;Urban;199,96;28,60;never smoked;0
+29872;Female;35;0;0;Yes;Private;Urban;83,89;25,50;never smoked;0
+29910;Male;42;0;0;Yes;Private;Urban;83,14;23,70;never smoked;0
+30002;Male;44;1;0;Yes;Self-employed;Rural;83,59;24,10;never smoked;0
+30171;Male;27;0;0;No;Govt_job;Urban;95,10;24,30;formerly smoked;0
+30214;Male;23;0;0;No;Private;Rural;83,86;19,50;never smoked;0
+30248;Female;42;0;0;No;Private;Rural;118,55;46,20;smokes;0
+30290;Female;40;0;0;Yes;Private;Urban;70,13;23,60;never smoked;0
+30303;Male;33;0;0;No;Private;Rural;88,50;32,60;formerly smoked;0
+30353;Male;36;0;0;Yes;Private;Urban;92,23;32,80;never smoked;0
+30405;Female;23;0;0;No;Private;Rural;75,25;39,70;formerly smoked;0
+30411;Female;40;0;0;No;Private;Rural;117,45;30,70;smokes;0
+30463;Male;29;0;0;No;Private;Urban;82,93;29,40;formerly smoked;0
+30480;Male;48;0;0;Yes;Private;Urban;85,54;32,20;smokes;0
+30491;Female;39;0;0;Yes;Private;Urban;78,90;26,70;never smoked;0
+30620;Male;37;0;0;No;Private;Urban;90,95;24,60;smokes;0
+30622;Female;44;0;0;Yes;Govt_job;Rural;115,99;20,90;never smoked;0
+30678;Female;48;0;0;Yes;Private;Urban;77,99;31,20;formerly smoked;0
+30693;Female;22;0;0;No;Private;Urban;68,40;37,50;never smoked;0
+30712;Male;50;0;0;Yes;Private;Urban;103,51;35,90;never smoked;0
+30731;Female;39;0;0;No;Self-employed;Urban;73,06;20,90;never smoked;0
+30752;Female;42;0;0;No;Self-employed;Urban;72,00;34,40;never smoked;0
+30753;Male;42;0;0;Yes;Govt_job;Urban;93,79;27,20;never smoked;0
+30806;Male;37;0;0;Yes;Self-employed;Urban;87,16;30,40;formerly smoked;0
+30927;Male;24;0;0;No;Private;Rural;93,76;24,00;formerly smoked;0
+30944;Female;32;0;0;Yes;Private;Rural;80,28;43,70;never smoked;0
+30961;Male;45;0;0;Yes;Private;Rural;95,62;29,50;smokes;0
+31092;Female;30;0;0;Yes;Private;Urban;88,56;45,30;never smoked;0
+31125;Female;50;0;0;Yes;Private;Rural;94,22;24,80;never smoked;0
+31131;Female;49;0;1;Yes;Private;Rural;76,78;22,70;smokes;0
+31154;Female;39;0;0;Yes;Self-employed;Urban;97,76;29,60;smokes;1
+31156;Female;49;0;0;Yes;Private;Urban;105,99;29,80;never smoked;0
+31161;Female;26;0;0;No;Govt_job;Urban;88,88;36,30;never smoked;0
+31166;Female;36;0;0;Yes;Govt_job;Rural;82,47;33,10;smokes;0
+31279;Male;22;0;0;No;Private;Urban;122,10;23,60;smokes;0
+31308;Female;49;0;0;Yes;Private;Urban;114,50;35,90;formerly smoked;0
+31360;Female;31;0;0;No;Private;Urban;89,11;51,90;smokes;0
+31378;Female;50;0;0;Yes;Self-employed;Rural;87,15;32,10;never smoked;0
+31409;Male;38;0;0;Yes;Private;Rural;73,76;37,40;never smoked;0
+31454;Female;38;0;0;Yes;Govt_job;Rural;93,93;21,50;never smoked;0
+31517;Female;28;0;0;Yes;Private;Rural;95,52;28,90;never smoked;0
+31590;Male;22;0;0;No;Private;Urban;111,10;26,60;never smoked;0
+31596;Female;24;0;0;No;Private;Urban;95,31;22,80;never smoked;0
+31600;Female;33;0;0;No;Private;Rural;106,08;32,50;formerly smoked;0
+31697;Female;34;0;0;Yes;Private;Urban;76,42;27,60;smokes;0
+31720;Female;38;0;0;No;Self-employed;Urban;82,28;24,00;formerly smoked;1
+31849;Female;49;0;0;Yes;Private;Rural;107,40;26,70;smokes;0
+32127;Female;26;0;0;Yes;Govt_job;Urban;84,69;25,00;never smoked;0
+32166;Male;47;1;0;Yes;Private;Urban;75,64;24,40;never smoked;0
+32215;Female;40;0;0;No;Private;Urban;120,77;27,60;never smoked;0
+32240;Female;27;0;0;No;Private;Urban;93,55;41,60;never smoked;0
+32317;Female;41;0;0;Yes;Private;Urban;80,72;34,10;smokes;0
+32320;Female;35;0;0;Yes;Self-employed;Urban;114,45;25,20;smokes;0
+32352;Female;31;0;0;Yes;Govt_job;Rural;104,55;26,40;never smoked;0
+32446;Female;44;0;0;Yes;Private;Rural;97,27;26,00;never smoked;0
+32604;Male;49;0;0;Yes;Self-employed;Rural;215,81;58,10;never smoked;0
+32645;Female;44;0;0;Yes;Private;Rural;97,59;30,50;smokes;0
+32687;Male;37;0;0;Yes;Private;Rural;78,42;29,90;never smoked;0
+32726;Female;41;0;0;No;Private;Urban;76,08;25,10;never smoked;0
+32733;Female;28;0;0;Yes;Private;Rural;106,68;29,30;never smoked;0
+33115;Male;32;0;0;Yes;Private;Rural;82,68;29,20;never smoked;0
+33162;Female;23;0;0;No;Private;Rural;90,84;31,60;never smoked;0
+33298;Female;44;0;0;Yes;Private;Urban;105,29;27,60;formerly smoked;0
+33410;Female;39;0;0;No;Govt_job;Urban;79,44;22,70;never smoked;0
+33462;Male;39;0;0;Yes;Private;Urban;92,32;43,00;never smoked;0
+33552;Male;31;0;0;Yes;Private;Rural;114,32;27,70;smokes;0
+33674;Female;47;0;0;Yes;Private;Urban;104,70;20,70;smokes;0
+33779;Male;46;0;1;Yes;Govt_job;Urban;80,01;33,00;formerly smoked;0
+33790;Female;23;0;0;No;Private;Rural;100,06;28,60;never smoked;0
+33886;Female;30;0;0;No;Private;Rural;87,12;31,10;smokes;0
+33924;Female;26;0;0;No;Private;Urban;80,94;22,20;smokes;0
+33943;Female;39;0;0;Yes;Private;Urban;83,24;26,30;never smoked;1
+33960;Male;39;1;0;Yes;Self-employed;Urban;71,66;28,70;never smoked;0
+34068;Female;23;0;0;Yes;Govt_job;Urban;77,53;33,90;formerly smoked;0
+34077;Male;46;0;0;Yes;Govt_job;Rural;102,27;38,90;formerly smoked;0
+34138;Male;42;0;0;Yes;Private;Urban;89,00;36,30;formerly smoked;0
+34161;Male;33;1;0;Yes;Private;Rural;85,12;32,50;never smoked;0
+34188;Female;47;0;0;Yes;Govt_job;Urban;95,07;38,80;formerly smoked;0
+34230;Female;35;0;0;Yes;Self-employed;Urban;205,97;26,60;formerly smoked;0
+34312;Female;47;0;0;Yes;Self-employed;Urban;73,00;20,60;never smoked;0
+34336;Male;50;1;0;Yes;Govt_job;Rural;79,73;25,50;smokes;0
+34363;Female;27;0;0;Yes;Private;Urban;95,12;27,00;never smoked;0
+34386;Female;43;0;0;Yes;Private;Rural;102,50;50,20;never smoked;0
+34402;Female;23;0;0;Yes;Private;Rural;91,97;21,60;formerly smoked;0
+34416;Male;23;0;0;No;Private;Urban;74,34;23,50;never smoked;0
+34525;Female;27;0;0;No;Private;Rural;83,26;22,20;never smoked;0
+34558;Male;33;0;0;Yes;Private;Rural;219,97;39,60;never smoked;0
+34590;Male;45;0;0;Yes;Self-employed;Rural;75,25;27,60;smokes;0
+34641;Male;40;0;0;No;Private;Rural;100,35;28,10;never smoked;0
+34657;Female;44;0;0;Yes;Self-employed;Urban;82,33;24,50;never smoked;0
+34661;Male;48;1;0;Yes;Private;Urban;185,00;26,10;never smoked;0
+34719;Male;48;1;0;No;Private;Urban;110,53;34,20;never smoked;0
+34764;Female;33;0;0;Yes;Private;Rural;80,82;40,30;never smoked;0
+34772;Female;49;0;0;Yes;Private;Rural;82,41;45,40;smokes;0
+34940;Male;32;0;0;Yes;Private;Urban;90,28;39,60;never smoked;0
+34966;Female;43;0;0;Yes;Self-employed;Urban;87,41;39,70;formerly smoked;0
+34999;Male;26;0;0;Yes;Private;Urban;89,18;25,90;formerly smoked;0
+35039;Female;28;0;0;No;Private;Rural;99,07;17,60;never smoked;0
+35069;Female;50;1;1;No;Govt_job;Urban;79,79;25,60;smokes;0
+35140;Male;43;0;0;Yes;Govt_job;Urban;210,94;31,30;never smoked;0
+35155;Female;50;0;0;Yes;Self-employed;Urban;69,92;18,70;formerly smoked;0
+35188;Female;40;0;0;No;Private;Urban;78,04;32,40;smokes;0
+35210;Female;48;0;0;Yes;Private;Urban;112,96;25,40;never smoked;0
+35330;Male;30;0;0;Yes;Private;Urban;81,25;27,30;smokes;0
+35372;Male;37;0;0;Yes;Govt_job;Rural;74,29;36,10;never smoked;0
+35432;Female;36;0;0;Yes;Private;Rural;95,36;25,10;never smoked;0
+35565;Male;43;0;0;Yes;Private;Urban;111,43;21,90;smokes;0
+35829;Female;33;0;0;Yes;Private;Urban;242,84;15,70;smokes;0
+35846;Female;43;1;0;No;Self-employed;Rural;217,30;27,50;never smoked;0
+35854;Female;23;0;0;No;Private;Urban;88,19;18,30;never smoked;0
+35893;Male;28;0;0;No;Private;Urban;116,02;36,60;formerly smoked;0
+35941;Male;38;0;0;Yes;Private;Urban;167,16;18,30;never smoked;0
+36045;Female;35;0;0;Yes;Private;Rural;119,40;22,90;never smoked;0
+36109;Male;42;0;0;Yes;Private;Urban;78,49;31,80;smokes;0
+36162;Male;39;1;0;Yes;Private;Rural;111,24;38,80;never smoked;0
+36298;Female;48;0;0;Yes;Self-employed;Rural;71,93;41,70;never smoked;0
+36317;Female;41;0;0;Yes;Private;Rural;134,29;26,80;smokes;0
+36338;Female;39;1;0;Yes;Private;Rural;58,09;39,20;smokes;1
+36377;Female;44;0;0;Yes;Private;Rural;222,29;38,20;never smoked;0
+36388;Male;44;1;0;Yes;Private;Rural;91,28;26,50;never smoked;0
+36431;Male;39;0;0;Yes;Govt_job;Rural;155,23;36,20;never smoked;0
+36484;Female;37;0;0;Yes;Govt_job;Urban;69,17;27,80;never smoked;0
+36545;Male;43;0;0;Yes;Private;Rural;62,99;27,00;formerly smoked;0
+36548;Male;31;0;0;Yes;Govt_job;Urban;65,70;30,40;formerly smoked;0
+36561;Female;39;0;0;Yes;Govt_job;Rural;191,47;28,30;never smoked;0
+36593;Male;38;0;0;No;Private;Rural;162,72;31,90;smokes;0
+36679;Female;22;1;0;No;Private;Urban;71,22;40,00;never smoked;0
+36698;Female;33;0;0;Yes;Private;Urban;89,98;18,70;smokes;0
+36704;Female;29;0;0;Yes;Self-employed;Rural;74,33;29,90;smokes;0
+36722;Female;30;0;0;Yes;Private;Urban;123,65;44,00;smokes;0
+36744;Male;40;0;0;Yes;Self-employed;Rural;169,74;31,90;never smoked;0
+36793;Female;38;1;0;Yes;Private;Rural;60,13;39,60;never smoked;0
+36803;Female;35;0;0;No;Private;Rural;74,53;24,60;never smoked;0
+36811;Female;23;0;0;No;Private;Urban;94,09;30,90;never smoked;0
+36814;Female;49;0;0;Yes;Private;Rural;56,11;28,70;smokes;0
+36825;Female;39;0;0;Yes;Private;Rural;103,12;29,90;formerly smoked;0
+36858;Female;40;0;0;Yes;Private;Rural;72,76;24,00;formerly smoked;0
+36958;Female;32;0;0;Yes;Private;Rural;92,37;26,90;never smoked;0
+36969;Female;44;0;0;Yes;Private;Rural;60,02;33,80;formerly smoked;0
+37082;Female;38;0;0;Yes;Govt_job;Urban;58,29;25,50;formerly smoked;0
+37089;Female;37;1;0;Yes;Self-employed;Rural;127,71;36,00;never smoked;0
+37128;Male;34;0;0;Yes;Private;Rural;134,61;23,40;never smoked;0
+37150;Female;34;0;0;Yes;Private;Rural;83,53;48,50;formerly smoked;0
+37154;Female;31;0;0;Yes;Private;Urban;125,38;24,40;smokes;0
+37237;Female;31;0;0;No;Private;Rural;87,81;26,40;smokes;0
+37307;Female;35;0;0;Yes;Private;Urban;65,48;50,50;never smoked;0
+37404;Male;42;0;0;Yes;Private;Urban;55,22;27,00;never smoked;0
+37451;Female;47;0;0;Yes;Govt_job;Rural;108,56;27,30;formerly smoked;0
+37483;Male;36;0;0;Yes;Private;Urban;98,03;22,10;smokes;0
+37492;Female;33;0;0;Yes;Private;Rural;88,17;38,60;formerly smoked;0
+37507;Female;32;0;0;No;Private;Rural;68,72;25,10;never smoked;0
+37545;Male;41;0;0;No;Govt_job;Urban;106,98;27,60;never smoked;0
+37608;Female;38;0;0;No;Private;Urban;218,60;47,90;formerly smoked;0
+37631;Male;50;0;0;Yes;Govt_job;Urban;89,18;34,80;smokes;0
+37668;Male;25;0;0;Yes;Govt_job;Urban;166,38;23,10;never smoked;0
+37713;Male;29;0;0;Yes;Private;Urban;185,27;31,30;never smoked;0
+37728;Female;26;0;0;Yes;Private;Urban;68,99;22,20;never smoked;0
+37752;Female;35;0;0;Yes;Private;Rural;74,55;22,40;never smoked;0
+37761;Female;38;0;0;Yes;Private;Urban;103,58;30,80;formerly smoked;0
+37893;Female;37;0;0;Yes;Private;Rural;73,50;26,10;formerly smoked;0
+37907;Female;22;0;0;No;Private;Urban;135,64;19,50;never smoked;0
+37993;Female;36;0;0;Yes;Govt_job;Urban;66,47;26,90;never smoked;0
+38009;Male;41;0;0;Yes;Private;Urban;223,78;32,30;never smoked;0
+38014;Male;24;0;0;Yes;Private;Urban;83,10;21,90;smokes;0
+38067;Female;22;0;0;No;Private;Urban;139,48;28,60;formerly smoked;0
+38074;Female;31;0;0;Yes;Private;Urban;131,42;24,90;smokes;0
+38123;Male;50;0;0;Yes;Private;Rural;93,04;41,90;smokes;0
+38349;Female;49;0;0;Yes;Govt_job;Urban;69,92;47,60;never smoked;0
+38397;Female;27;0;0;No;Private;Urban;111,48;28,90;never smoked;0
+38474;Male;22;0;0;Yes;Govt_job;Urban;131,30;27,00;never smoked;0
+38488;Female;30;0;0;Yes;Private;Urban;67,78;29,20;smokes;0
+38605;Female;36;0;0;Yes;Private;Rural;101,93;22,80;smokes;0
+38609;Male;47;0;0;Yes;Govt_job;Rural;74,80;23,50;never smoked;0
+38613;Female;50;0;0;Yes;Govt_job;Rural;62,12;29,60;never smoked;0
+38617;Male;28;0;0;Yes;Self-employed;Urban;73,98;29,90;never smoked;0
+38623;Male;39;0;0;No;Private;Urban;110,91;27,60;never smoked;0
+38649;Female;23;0;0;No;Private;Rural;79,33;41,50;never smoked;0
+38661;Female;29;0;0;No;Private;Urban;56,64;24,70;never smoked;0
+38724;Female;49;1;0;Yes;Govt_job;Urban;56,37;39,40;smokes;0
+38761;Female;50;0;0;Yes;Private;Urban;65,98;21,70;never smoked;0
+38805;Female;37;0;0;Yes;Private;Rural;75,18;48,20;formerly smoked;0
+38894;Female;35;0;0;Yes;Private;Urban;120,15;27,30;never smoked;0
+39060;Female;41;0;0;Yes;Private;Urban;71,06;23,40;never smoked;0
+39229;Female;24;0;0;Yes;Private;Rural;67,99;32,10;never smoked;0
+39250;Male;31;0;0;Yes;Private;Urban;85,16;30,10;smokes;0
+39342;Male;23;0;0;No;Private;Rural;67,76;26,00;never smoked;0
+39375;Female;40;0;0;Yes;Private;Rural;119,52;34,60;never smoked;0
+39383;Female;30;0;0;Yes;Private;Urban;80,19;20,40;never smoked;0
+39399;Female;32;0;0;No;Self-employed;Urban;65,30;40,40;never smoked;0
+39423;Female;32;0;0;Yes;Private;Rural;106,02;24,90;smokes;0
+39531;Male;50;1;0;Yes;Private;Rural;220,36;40,90;formerly smoked;0
+39556;Male;50;0;0;Yes;Self-employed;Urban;101,85;25,10;smokes;0
+39563;Female;36;0;0;Yes;Private;Rural;71,32;43,90;smokes;0
+39593;Female;39;0;0;Yes;Private;Urban;80,63;36,00;smokes;0
+39601;Female;33;0;0;Yes;Private;Urban;69,40;47,80;never smoked;0
+39616;Female;36;0;0;Yes;Private;Urban;99,72;22,30;smokes;0
+39639;Female;46;0;0;Yes;Private;Rural;188,11;50,20;smokes;0
+39706;Male;41;0;0;Yes;Self-employed;Rural;62,93;26,10;smokes;0
+39796;Male;41;0;0;No;Self-employed;Rural;60,73;28,00;never smoked;0
+39823;Female;41;0;0;Yes;Govt_job;Rural;229,86;35,20;smokes;0
+39834;Male;28;0;0;No;Private;Urban;73,27;25,40;smokes;0
+39912;Female;32;0;0;Yes;Private;Rural;76,13;29,90;smokes;1
+39927;Male;40;0;0;Yes;Private;Rural;56,07;26,60;never smoked;0
+39935;Female;34;0;0;Yes;Private;Rural;174,37;23,00;never smoked;0
+39936;Female;49;0;0;Yes;Private;Rural;61,57;37,90;formerly smoked;0
+39940;Female;33;0;0;Yes;Private;Urban;64,62;27,30;never smoked;0
+39977;Female;22;0;0;No;Private;Urban;87,40;34,80;never smoked;0
+39984;Female;42;0;0;Yes;Govt_job;Rural;157,67;22,70;formerly smoked;0
+40076;Female;46;0;0;Yes;Private;Rural;70,11;24,20;never smoked;0
+40112;Female;37;0;0;No;Private;Urban;118,41;25,10;never smoked;0
+40144;Female;32;0;0;No;Self-employed;Rural;93,17;27,50;smokes;0
+40181;Female;30;0;0;Yes;Private;Urban;61,45;36,70;smokes;0
+40213;Male;31;0;0;No;Private;Rural;95,62;32,00;smokes;0
+40220;Male;32;0;0;No;Private;Rural;100,65;26,20;formerly smoked;0
+40240;Male;40;1;0;Yes;Self-employed;Urban;93,20;24,80;smokes;0
+40251;Female;23;0;0;No;Private;Rural;65,90;21,50;never smoked;0
+40371;Female;47;0;0;Yes;Private;Urban;62,47;26,50;never smoked;0
+40378;Male;45;1;0;Yes;Self-employed;Urban;90,43;39,70;smokes;0
+40393;Female;32;0;0;No;Private;Urban;68,19;21,10;never smoked;0
+40509;Female;23;0;0;No;Private;Urban;91,19;28,30;never smoked;0
+40571;Male;29;0;0;No;Private;Urban;73,75;28,30;never smoked;0
+40602;Female;22;0;0;No;Private;Urban;62,52;38,20;never smoked;0
+40624;Female;37;0;0;Yes;Private;Rural;156,70;36,90;never smoked;0
+40705;Female;47;0;0;Yes;Self-employed;Rural;66,16;31,50;never smoked;0
+40732;Female;50;0;0;Yes;Self-employed;Rural;126,85;49,50;formerly smoked;0
+40826;Female;42;0;0;No;Private;Urban;63,27;27,00;never smoked;0
+40840;Female;49;0;0;Yes;Private;Rural;138,16;19,40;never smoked;0
+40842;Female;29;0;0;Yes;Private;Rural;108,14;25,10;formerly smoked;0
+40931;Female;41;0;0;Yes;Govt_job;Urban;91,93;24,70;smokes;0
+40970;Male;43;0;0;Yes;Private;Urban;135,75;35,90;smokes;0
+41007;Female;39;0;0;Yes;Private;Urban;60,60;34,20;never smoked;0
+41033;Female;31;0;0;Yes;Govt_job;Rural;55,27;32,50;formerly smoked;0
+41049;Female;30;0;0;Yes;Private;Rural;124,37;21,40;never smoked;0
+41069;Female;45;0;0;Yes;Private;Rural;224,10;56,60;never smoked;1
+41097;Female;23;1;0;No;Private;Urban;70,03;78,00;smokes;0
+41146;Male;41;0;0;Yes;Private;Rural;113,65;49,30;never smoked;0
+41153;Female;32;0;0;Yes;Private;Urban;100,01;37,20;never smoked;0
+41181;Male;36;0;0;Yes;Private;Urban;77,26;30,90;never smoked;0
+41182;Female;35;1;0;Yes;Private;Urban;94,20;34,40;smokes;0
+41191;Male;40;0;0;Yes;Private;Rural;64,84;26,60;never smoked;0
+41210;Male;44;0;0;No;Self-employed;Urban;105,76;32,40;formerly smoked;0
+41238;Female;36;0;0;Yes;Private;Urban;72,16;23,20;never smoked;0
+41291;Female;46;0;0;Yes;Private;Rural;218,65;29,50;never smoked;0
+41404;Female;37;0;0;Yes;Private;Rural;110,28;22,30;never smoked;0
+41527;Male;46;0;0;Yes;Private;Urban;59,74;29,50;smokes;0
+41554;Female;50;0;0;Yes;Private;Rural;65,25;25,40;smokes;0
+41565;Female;33;0;0;No;Private;Urban;121,19;22,10;never smoked;0
+41648;Male;27;0;0;Yes;Private;Rural;102,64;26,40;smokes;0
+41652;Female;31;0;0;No;Private;Urban;63,41;25,50;formerly smoked;0
+41673;Female;45;0;0;Yes;Private;Rural;80,93;23,10;never smoked;0
+41800;Female;23;0;0;Yes;Private;Rural;79,35;39,40;formerly smoked;0
+41820;Female;35;0;0;Yes;Govt_job;Rural;89,11;24,40;never smoked;0
+41861;Female;23;0;0;No;Private;Rural;63,73;25,60;smokes;0
+41875;Female;45;0;0;Yes;Private;Urban;71,40;28,40;smokes;0
+41917;Female;29;0;0;No;Private;Urban;84,19;21,20;never smoked;0
+41927;Female;28;0;0;Yes;Private;Rural;64,64;22,10;never smoked;0
+41935;Male;34;0;0;No;Private;Rural;125,29;33,90;never smoked;0
+41942;Female;37;0;0;Yes;Private;Urban;247,87;42,60;never smoked;0
+42040;Female;48;0;0;Yes;Govt_job;Urban;128,23;49,40;never smoked;0
+42072;Female;50;1;0;Yes;Private;Rural;73,18;30,30;formerly smoked;1
+42091;Male;32;0;0;Yes;Govt_job;Rural;83,01;25,80;smokes;0
+42108;Female;24;0;0;No;Govt_job;Rural;100,97;27,90;never smoked;0
+42172;Female;24;0;0;Yes;Self-employed;Rural;69,72;29,60;never smoked;0
+42184;Male;43;0;0;Yes;Self-employed;Rural;82,84;31,60;never smoked;0
+42212;Female;38;0;0;Yes;Private;Urban;158,48;33,70;formerly smoked;0
+42305;Female;41;0;0;No;Private;Rural;100,75;27,20;never smoked;0
+42330;Female;48;0;0;Yes;Private;Rural;73,56;27,10;smokes;0
+42556;Male;27;0;0;Yes;Private;Urban;150,10;25,30;never smoked;0
+42710;Female;23;0;0;No;Private;Urban;79,39;27,60;never smoked;0
+42713;Female;45;0;0;Yes;Private;Urban;115,23;28,00;never smoked;0
+42760;Female;27;0;0;Yes;Private;Urban;57,46;23,00;smokes;0
+42902;Male;35;0;0;Yes;Private;Rural;102,34;34,30;never smoked;0
+42996;Female;36;0;0;No;Govt_job;Rural;126,82;23,30;never smoked;0
+43035;Male;35;0;0;Yes;Private;Rural;145,18;32,60;smokes;0
+43054;Female;50;0;0;Yes;Private;Rural;102,16;31,40;smokes;1
+43088;Male;37;0;0;No;Private;Urban;67,53;49,50;formerly smoked;0
+43124;Female;50;0;0;Yes;Govt_job;Urban;74,72;28,50;never smoked;0
+43244;Female;40;0;0;Yes;Private;Rural;131,99;37,50;never smoked;0
+43271;Female;24;0;0;No;Govt_job;Urban;63,40;20,30;smokes;0
+43478;Male;34;0;0;Yes;Private;Urban;59,91;28,40;formerly smoked;0
+43496;Female;46;0;0;Yes;Govt_job;Urban;55,84;27,80;never smoked;0
+43510;Female;50;1;0;Yes;Govt_job;Urban;59,89;25,50;never smoked;0
+43549;Female;40;1;0;Yes;Private;Rural;81,59;27,20;never smoked;0
+43590;Female;26;0;0;Yes;Private;Rural;63,94;17,60;never smoked;0
+43672;Female;45;0;0;Yes;Private;Urban;146,44;22,80;formerly smoked;0
+43806;Male;44;0;0;Yes;Private;Urban;142,31;29,10;smokes;0
+43827;Female;27;0;0;Yes;Private;Urban;161,57;25,70;smokes;0
+43837;Male;33;0;0;Yes;Private;Urban;105,19;50,10;smokes;0
+44047;Male;37;0;0;Yes;Govt_job;Rural;80,20;30,90;never smoked;0
+44142;Male;25;0;0;No;Private;Rural;95,01;28,00;never smoked;0
+44179;Female;41;0;0;Yes;Private;Urban;80,77;21,10;never smoked;0
+44202;Female;25;0;0;Yes;Private;Urban;65,60;33,50;never smoked;0
+44243;Female;29;0;0;No;Private;Rural;78,88;26,10;never smoked;0
+44281;Male;34;0;0;No;Private;Rural;89,68;23,20;smokes;0
+44288;Male;43;0;0;Yes;Private;Rural;207,37;29,50;formerly smoked;0
+44355;Female;48;0;0;Yes;Private;Rural;74,16;19,90;never smoked;0
+44447;Male;49;0;0;Yes;Private;Urban;58,19;29,60;smokes;0
+44472;Male;32;0;0;Yes;Self-employed;Urban;160,64;20,40;smokes;0
+44494;Female;38;0;0;Yes;Private;Rural;84,31;25,90;smokes;0
+44503;Female;25;0;0;No;Private;Rural;65,95;35,00;never smoked;0
+44531;Male;36;0;0;Yes;Private;Urban;56,42;29,60;never smoked;0
+44628;Female;38;0;0;Yes;Private;Rural;91,09;22,20;never smoked;0
+44655;Female;34;0;0;Yes;Private;Rural;70,53;39,20;never smoked;0
+44799;Female;32;0;0;Yes;Private;Rural;66,30;47,50;never smoked;0
+44813;Female;34;0;0;No;Private;Rural;69,06;29,00;smokes;0
+44862;Female;39;0;0;Yes;Private;Rural;83,51;26,40;never smoked;0
+44978;Male;39;0;0;Yes;Govt_job;Rural;72,49;44,90;formerly smoked;0
+45112;Male;40;0;0;No;Govt_job;Urban;197,11;23,90;never smoked;0
+45163;Female;47;0;0;Yes;Private;Urban;99,36;23,80;smokes;0
+45224;Female;46;0;0;Yes;Private;Rural;109,22;20,10;never smoked;0
+45257;Female;38;0;0;Yes;Private;Rural;81,28;33,20;smokes;0
+45283;Female;31;0;0;Yes;Private;Urban;106,18;27,00;smokes;0
+45325;Female;29;0;0;No;Private;Urban;61,13;26,00;never smoked;0
+45395;Female;43;0;0;Yes;Private;Urban;57,79;24,80;smokes;0
+45472;Male;22;0;0;Yes;Private;Urban;138,55;24,00;never smoked;0
+45565;Female;40;0;0;Yes;Private;Urban;72,12;38,00;never smoked;0
+45573;Female;50;0;0;Yes;Private;Rural;76,55;29,00;smokes;0
+45622;Female;25;0;0;No;Private;Rural;118,85;23,80;smokes;0
+45719;Female;22;0;0;No;Private;Rural;82,00;26,40;never smoked;0
+45759;Female;32;0;0;Yes;Private;Rural;91,98;27,60;smokes;0
+45796;Female;29;0;0;Yes;Private;Rural;91,45;24,20;never smoked;0
+45801;Female;38;0;0;No;Private;Rural;97,49;26,90;never smoked;0
+45864;Female;36;0;0;No;Private;Rural;55,58;30,00;never smoked;0
+45915;Female;40;0;0;No;Private;Rural;63,45;32,70;formerly smoked;0
+45922;Female;23;0;0;No;Private;Urban;58,81;25,40;never smoked;0
+45945;Male;46;0;1;Yes;Private;Urban;178,76;24,10;never smoked;0
+45955;Female;45;0;0;Yes;Private;Urban;55,67;23,10;smokes;0
+46015;Female;29;0;0;No;Private;Urban;73,63;22,50;smokes;0
+46079;Male;31;0;0;No;Private;Urban;78,80;28,70;smokes;0
+46093;Female;28;0;0;Yes;Private;Rural;56,47;22,70;never smoked;0
+46363;Male;37;0;0;Yes;Private;Rural;66,17;26,10;never smoked;0
+46474;Male;26;0;0;Yes;Private;Rural;100,09;27,40;never smoked;0
+46483;Male;23;0;0;No;Private;Urban;77,75;38,80;smokes;0
+46488;Male;35;0;0;Yes;Private;Rural;69,22;42,80;never smoked;0
+46514;Female;50;0;0;Yes;Govt_job;Urban;100,93;32,70;never smoked;0
+46647;Female;36;0;0;No;Private;Urban;228,50;34,50;never smoked;0
+46683;Female;25;0;0;No;Private;Urban;122,01;27,00;smokes;0
+46688;Female;44;0;0;No;Private;Urban;127,21;29,80;smokes;0
+46745;Male;22;0;0;Yes;Govt_job;Rural;117,69;26,50;never smoked;0
+46785;Female;29;0;0;Yes;Private;Urban;63,69;28,10;smokes;0
+46797;Female;31;0;0;Yes;Private;Rural;75,82;29,10;never smoked;0
+46875;Male;35;0;0;Yes;Private;Urban;145,23;32,30;never smoked;0
+47005;Female;47;0;0;Yes;Private;Urban;68,48;21,30;never smoked;0
+47175;Female;49;0;0;Yes;Private;Rural;60,22;31,50;smokes;0
+47196;Male;42;0;0;Yes;Private;Rural;110,68;32,40;formerly smoked;0
+47216;Male;47;0;0;Yes;Private;Rural;110,14;30,50;smokes;0
+47236;Female;50;0;0;Yes;Private;Urban;154,67;33,80;never smoked;0
+47345;Male;45;0;0;Yes;Private;Rural;97,12;29,20;never smoked;0
+47356;Female;42;0;0;Yes;Private;Urban;87,40;24,50;formerly smoked;0
+47427;Male;49;0;0;Yes;Self-employed;Urban;70,73;27,30;formerly smoked;0
+47456;Male;30;0;0;Yes;Private;Rural;58,89;26,10;formerly smoked;0
+47523;Female;37;0;0;No;Self-employed;Rural;134,39;22,70;formerly smoked;0
+47585;Female;31;0;0;No;Self-employed;Urban;62,68;35,80;never smoked;0
+47662;Female;36;0;0;No;Self-employed;Urban;57,83;21,60;smokes;0
+47696;Male;44;0;0;Yes;Private;Rural;60,32;25,00;never smoked;0
+47730;Female;41;0;0;No;Private;Urban;86,03;26,40;never smoked;0
+47799;Female;42;0;0;Yes;Private;Urban;191,94;27,90;never smoked;0
+47802;Male;28;0;0;No;Private;Urban;256,74;23,40;formerly smoked;0
+47844;Female;38;0;0;Yes;Private;Urban;69,34;43,70;never smoked;0
+47885;Male;37;0;0;Yes;Self-employed;Urban;160,00;31,90;formerly smoked;0
+47924;Male;24;0;0;No;Private;Urban;59,28;43,20;never smoked;0
+47972;Female;25;0;0;No;Govt_job;Rural;74,11;34,10;smokes;0
+48244;Female;38;0;0;No;Private;Rural;77,50;36,90;smokes;0
+48303;Male;39;0;0;Yes;Private;Rural;71,30;34,70;never smoked;0
+48359;Female;43;0;0;Yes;Private;Rural;142,12;28,40;smokes;0
+48518;Male;44;0;0;Yes;Self-employed;Rural;127,57;22,60;never smoked;0
+48644;Female;47;0;0;Yes;Self-employed;Rural;115,91;22,20;formerly smoked;0
+48693;Female;43;0;0;Yes;Private;Rural;91,90;32,70;formerly smoked;0
+48721;Male;26;0;0;No;Private;Urban;190,67;20,20;never smoked;0
+48739;Male;47;0;0;Yes;Self-employed;Urban;135,19;36,00;smokes;0
+48755;Male;27;0;0;Yes;Private;Rural;104,48;36,40;smokes;0
+48759;Female;45;0;0;Yes;Private;Rural;176,48;24,00;formerly smoked;0
+48830;Male;30;0;0;Yes;Private;Urban;104,62;33,50;smokes;0
+48843;Female;27;0;0;No;Private;Urban;58,39;30,40;never smoked;0
+48989;Female;34;0;0;No;Govt_job;Rural;120,06;33,00;never smoked;0
+49003;Male;43;0;0;Yes;Private;Urban;146,01;31,50;smokes;0
+49053;Female;45;0;0;No;Private;Rural;120,56;31,60;never smoked;0
+49057;Female;32;0;0;No;Private;Rural;67,92;22,80;smokes;0
+49086;Female;23;0;0;No;Private;Urban;60,50;27,10;formerly smoked;0
+49152;Female;40;0;0;No;Private;Rural;70,45;23,30;smokes;0
+49190;Female;45;0;0;Yes;Private;Rural;112,55;32,10;never smoked;0
+49277;Female;34;0;0;No;Private;Urban;70,87;55,70;formerly smoked;0
+49480;Female;31;0;0;No;Private;Urban;106,13;22,40;never smoked;0
+49509;Female;25;0;0;Yes;Private;Rural;78,50;28,60;never smoked;0
+49555;Female;34;0;0;Yes;Govt_job;Urban;90,55;30,00;never smoked;0
+49589;Female;44;0;0;Yes;Govt_job;Urban;57,33;24,60;smokes;0
+49666;Male;47;0;0;Yes;Self-employed;Urban;85,68;39,60;never smoked;0
+49753;Male;34;0;0;No;Self-employed;Rural;81,54;31,80;formerly smoked;0
+49762;Female;24;0;0;No;Private;Rural;123,89;24,10;smokes;0
+49797;Female;28;0;0;No;Private;Rural;75,53;34,90;never smoked;0
+49833;Female;42;0;0;Yes;Govt_job;Rural;112,98;37,20;formerly smoked;0
+49883;Female;41;0;0;Yes;Private;Rural;65,40;36,90;formerly smoked;0
+49903;Male;27;0;0;No;Private;Urban;72,61;38,50;never smoked;0
+49949;Male;44;0;0;Yes;Private;Urban;58,47;24,40;never smoked;0
+49955;Male;43;0;0;No;Private;Urban;78,98;31,30;formerly smoked;0
+50001;Female;34;0;0;Yes;Govt_job;Rural;86,36;32,10;smokes;0
+50072;Female;26;0;0;No;Private;Rural;58,55;29,00;never smoked;0
+50073;Female;41;0;1;No;Private;Rural;186,54;39,00;formerly smoked;0
+50091;Female;38;0;0;No;Govt_job;Urban;160,76;30,20;smokes;0
+50140;Female;44;0;0;Yes;Govt_job;Rural;133,24;45,00;smokes;0
+50206;Female;34;0;0;Yes;Private;Rural;89,31;37,30;formerly smoked;0
+50215;Male;42;0;0;No;Govt_job;Rural;59,83;52,80;never smoked;0
+50216;Male;44;1;0;Yes;Self-employed;Rural;188,13;44,70;formerly smoked;0
+50222;Female;22;0;0;No;Private;Rural;74,99;27,90;smokes;0
+50295;Female;45;0;0;Yes;Private;Urban;65,36;39,30;never smoked;0
+50309;Female;37;0;0;No;Govt_job;Rural;77,37;21,40;never smoked;0
+50338;Female;34;0;0;Yes;Private;Urban;83,07;28,00;formerly smoked;0
+50434;Male;38;0;0;Yes;Govt_job;Rural;135,74;31,30;formerly smoked;0
+50463;Female;41;0;0;Yes;Private;Urban;78,74;42,30;smokes;0
+50499;Female;32;0;0;Yes;Private;Rural;71,80;26,50;never smoked;0
+50541;Male;47;0;0;Yes;Govt_job;Urban;73,48;34,90;smokes;0
+50545;Male;41;0;0;Yes;Govt_job;Urban;84,10;29,30;never smoked;0
+50605;Female;35;0;0;Yes;Private;Rural;123,94;28,70;never smoked;0
+50650;Male;30;0;0;No;Private;Rural;82,56;25,40;formerly smoked;0
+50681;Female;36;0;0;Yes;Private;Rural;90,22;28,70;formerly smoked;0
+50723;Male;47;0;0;Yes;Private;Rural;131,19;28,30;smokes;0
+50763;Male;42;0;0;Yes;Govt_job;Urban;58,35;24,30;never smoked;0
+50811;Male;24;0;0;No;Private;Urban;119,34;38,50;never smoked;0
+50837;Male;41;0;0;Yes;Self-employed;Rural;80,42;33,40;formerly smoked;0
+50841;Female;40;0;0;Yes;Private;Rural;191,48;27,90;smokes;0
+50845;Female;32;0;0;Yes;Govt_job;Urban;101,13;43,90;formerly smoked;0
+50903;Female;29;0;0;Yes;Private;Urban;116,98;23,40;never smoked;0
+50947;Male;48;0;0;Yes;Private;Urban;63,33;26,50;smokes;0
+50975;Male;49;0;0;Yes;Private;Rural;62,64;27,00;never smoked;0
+50983;Male;35;0;0;Yes;Private;Rural;90,51;26,70;never smoked;0
+51024;Female;24;0;0;Yes;Private;Urban;105,26;26,10;never smoked;0
+51073;Female;34;0;0;Yes;Self-employed;Urban;79,77;33,60;never smoked;0
+51085;Female;25;0;0;No;Private;Urban;181,30;35,80;never smoked;0
+51116;Female;40;0;0;Yes;Self-employed;Urban;64,66;25,00;formerly smoked;0
+51159;Female;32;0;0;No;Govt_job;Urban;68,98;23,40;formerly smoked;0
+51177;Female;49;0;0;Yes;Private;Urban;67,68;24,80;formerly smoked;0
+51257;Male;32;0;0;No;Private;Rural;72,10;23,20;never smoked;0
+51329;Female;48;0;0;Yes;Private;Rural;68,01;27,70;never smoked;0
+51408;Male;33;0;0;Yes;Govt_job;Rural;77,94;28,70;never smoked;0
+51476;Male;48;0;0;Yes;Private;Urban;78,85;43,20;never smoked;0
+51497;Male;28;0;0;Yes;Self-employed;Urban;156,45;24,30;never smoked;0
+51564;Female;24;0;0;No;Govt_job;Urban;104,86;19,80;never smoked;0
+51579;Male;27;0;0;No;Self-employed;Rural;63,53;26,90;never smoked;0
+51584;Male;26;0;0;No;Private;Urban;71,25;30,30;smokes;0
+51651;Male;46;0;0;Yes;Private;Rural;114,46;24,70;formerly smoked;0
+51746;Female;37;0;0;Yes;Govt_job;Rural;67,07;27,40;never smoked;0
+51806;Male;31;0;0;Yes;Private;Rural;77,23;25,90;smokes;0
+51845;Male;50;0;0;Yes;Govt_job;Rural;84,40;42,30;formerly smoked;0
+51856;Male;38;1;0;Yes;Private;Rural;56,90;92,00;never smoked;0
+51889;Female;40;0;0;Yes;Private;Urban;58,64;33,00;never smoked;0
+51897;Male;36;0;0;Yes;Private;Rural;161,00;29,00;smokes;0
+51907;Female;50;0;0;Yes;Self-employed;Urban;121,14;22,80;never smoked;0
+51983;Female;33;0;0;Yes;Private;Rural;71,16;46,50;smokes;0
+52034;Male;31;0;0;Yes;Private;Urban;71,31;25,80;never smoked;0
+52080;Female;26;0;0;No;Private;Rural;85,27;24,60;never smoked;0
+52089;Female;23;0;0;No;Private;Urban;126,67;28,70;smokes;0
+52164;Male;29;0;0;Yes;Private;Urban;193,81;46,80;never smoked;0
+52173;Male;38;0;0;No;Self-employed;Urban;74,09;39,60;never smoked;0
+52216;Female;35;0;0;Yes;Private;Urban;87,72;21,30;never smoked;0
+52220;Female;26;0;0;No;Private;Rural;154,08;20,20;formerly smoked;0
+52225;Male;24;0;0;No;Private;Urban;84,16;37,50;smokes;0
+52342;Female;43;0;0;Yes;Private;Rural;58,63;28,40;smokes;0
+52367;Male;46;0;0;Yes;Private;Urban;58,42;24,70;formerly smoked;0
+52368;Male;46;0;0;Yes;Private;Urban;60,32;33,30;smokes;0
+52428;Male;25;0;0;No;Private;Urban;116,12;20,40;smokes;0
+52500;Female;42;0;0;Yes;Govt_job;Urban;59,43;25,40;never smoked;0
+52580;Female;27;0;0;No;Private;Rural;75,04;24,50;never smoked;0
+52668;Female;24;0;0;No;Private;Urban;65,44;23,60;never smoked;0
+52677;Female;47;0;0;Yes;Private;Urban;84,04;24,70;never smoked;0
+52681;Female;39;0;0;Yes;Private;Urban;254,95;35,50;smokes;0
+52790;Female;26;0;0;No;Govt_job;Urban;123,81;39,00;never smoked;0
+52792;Female;39;0;0;Yes;Private;Urban;62,02;23,70;smokes;0
+52897;Male;35;0;0;No;Private;Urban;93,60;28,50;smokes;0
+52924;Female;48;0;0;Yes;Private;Urban;116,20;27,60;formerly smoked;0
+52978;Female;30;0;0;Yes;Private;Urban;84,92;47,80;never smoked;0
+53028;Female;39;0;0;Yes;Private;Rural;81,31;34,70;never smoked;0
+53032;Male;40;0;0;Yes;Private;Rural;80,25;30,30;formerly smoked;0
+53105;Female;29;0;0;Yes;Private;Urban;63,90;45,40;smokes;0
+53121;Male;44;0;0;Yes;Private;Urban;63,60;37,30;never smoked;0
+53141;Female;25;0;0;No;Private;Rural;67,73;22,60;never smoked;0
+53195;Male;30;0;0;No;Private;Urban;141,80;31,90;never smoked;0
+53219;Male;47;0;0;Yes;Private;Urban;63,98;26,80;smokes;0
+53266;Female;33;0;0;Yes;Private;Urban;79,91;33,50;never smoked;0
+53271;Male;36;0;0;Yes;Private;Rural;74,63;31,60;formerly smoked;0
+53276;Female;49;0;0;Yes;Private;Urban;67,55;17,60;formerly smoked;0
+53302;Female;24;0;0;Yes;Private;Rural;130,00;25,90;formerly smoked;0
+53323;Female;34;0;0;No;Govt_job;Urban;79,60;46,30;never smoked;0
+53346;Female;24;0;0;Yes;Private;Rural;156,43;27,00;formerly smoked;0
+53426;Male;49;0;0;Yes;Private;Rural;58,42;32,80;formerly smoked;0
+53476;Female;31;0;0;Yes;Private;Urban;90,00;38,60;never smoked;0
+53478;Female;40;0;0;Yes;Private;Urban;89,61;41,20;formerly smoked;0
+53482;Male;32;0;0;No;Self-employed;Rural;56,08;35,90;formerly smoked;0
+53815;Female;31;0;0;No;Private;Urban;65,47;28,10;never smoked;0
+53862;Female;41;0;0;Yes;Govt_job;Rural;106,35;26,10;never smoked;0
+53896;Female;23;0;0;No;Private;Rural;165,36;21,90;smokes;0
+53910;Female;48;0;0;Yes;Self-employed;Rural;132,08;31,60;smokes;0
+54053;Male;46;0;0;Yes;Private;Rural;66,59;36,70;formerly smoked;0
+54058;Female;22;0;0;No;Private;Urban;56,84;29,90;smokes;0
+54065;Female;45;0;0;Yes;Private;Urban;91,04;21,10;never smoked;0
+54067;Female;26;0;0;No;Private;Rural;67,21;21,80;formerly smoked;0
+54127;Female;40;0;0;Yes;Self-employed;Urban;106,76;24,10;formerly smoked;0
+54177;Female;49;1;0;Yes;Govt_job;Rural;63,16;23,30;formerly smoked;0
+54184;Female;22;0;0;No;Private;Urban;63,37;26,50;never smoked;0
+54206;Female;31;0;0;No;Govt_job;Urban;80,88;29,30;formerly smoked;0
+54304;Female;22;0;0;Yes;Private;Urban;86,24;31,20;never smoked;0
+54378;Female;48;0;0;Yes;Self-employed;Urban;212,19;46,90;never smoked;0
+54385;Male;45;0;0;Yes;Private;Rural;64,14;29,40;never smoked;1
+54540;Male;46;0;0;Yes;Private;Rural;138,07;24,30;never smoked;0
+54567;Female;46;0;0;Yes;Private;Urban;78,18;30,80;never smoked;1
+54620;Male;40;0;0;Yes;Private;Urban;78,11;35,30;never smoked;0
+54726;Female;37;0;0;Yes;Private;Urban;69,42;33,00;never smoked;0
+54782;Female;30;0;0;No;Self-employed;Rural;56,07;31,30;never smoked;0
+54815;Female;49;0;0;Yes;Private;Urban;125,30;29,70;formerly smoked;0
+54869;Female;30;0;0;Yes;Private;Urban;116,98;26,00;never smoked;0
+54946;Female;26;0;0;No;Private;Urban;168,15;22,90;never smoked;0
+55051;Male;26;0;0;Yes;Private;Rural;55,62;25,80;never smoked;0
+55137;Female;25;0;0;No;Private;Urban;125,98;21,00;smokes;0
+55169;Male;34;0;0;Yes;Private;Rural;72,64;32,40;never smoked;0
+55232;Female;38;0;0;Yes;Private;Rural;79,83;27,90;smokes;0
+55235;Female;50;0;0;Yes;Self-employed;Urban;85,92;37,30;smokes;0
+55244;Male;40;0;0;Yes;Self-employed;Rural;65,29;28,30;never smoked;0
+55262;Male;25;0;0;Yes;Private;Rural;93,88;24,30;smokes;0
+55361;Female;36;0;0;Yes;Self-employed;Urban;202,06;24,40;never smoked;0
+55386;Male;42;0;0;Yes;Private;Rural;123,15;26,10;smokes;0
+55407;Female;47;0;0;Yes;Private;Urban;93,18;42,60;formerly smoked;0
+55410;Female;50;0;0;Yes;Self-employed;Urban;62,63;23,40;never smoked;0
+55455;Male;27;0;0;No;Private;Rural;112,41;33,70;never smoked;0
+55457;Female;48;0;0;Yes;Private;Urban;110,18;30,30;smokes;0
+55526;Male;46;0;0;Yes;Govt_job;Urban;58,63;35,30;never smoked;0
+55529;Male;39;0;0;Yes;Private;Rural;114,32;26,40;never smoked;0
+55566;Female;34;0;0;Yes;Private;Rural;231,50;45,40;never smoked;0
+55591;Male;50;0;0;Yes;Private;Urban;120,44;30,30;never smoked;0
+55607;Male;38;0;0;Yes;Private;Urban;101,43;27,00;formerly smoked;0
+55631;Male;38;0;0;Yes;Private;Rural;133,62;25,20;never smoked;0
+55709;Female;47;0;0;Yes;Self-employed;Urban;141,23;21,10;never smoked;0
+55790;Female;45;0;0;Yes;Private;Urban;106,83;32,10;formerly smoked;0
+55975;Female;44;0;0;Yes;Govt_job;Rural;70,48;20,20;never smoked;0
+56089;Female;25;0;0;Yes;Private;Rural;63,64;31,30;formerly smoked;0
+56156;Other;26;0;0;No;Private;Rural;143,33;22,40;formerly smoked;0
+56166;Female;30;0;0;Yes;Govt_job;Rural;62,25;33,70;never smoked;0
+56179;Male;29;0;0;No;Private;Urban;207,58;22,80;smokes;0
+56185;Female;28;0;0;No;Private;Urban;73,20;26,50;smokes;0
+56189;Male;43;0;0;No;Govt_job;Urban;84,43;30,00;smokes;0
+56195;Male;37;0;0;Yes;Govt_job;Urban;156,69;35,20;never smoked;0
+56233;Female;44;0;0;No;Private;Rural;116,95;26,10;never smoked;0
+56254;Female;25;0;0;No;Private;Rural;108,82;41,30;smokes;0
+56255;Female;24;0;0;No;Private;Urban;149,17;23,10;never smoked;0
+56277;Female;38;0;0;Yes;Private;Rural;83,80;24,20;smokes;0
+56309;Female;25;0;0;Yes;Private;Rural;69,24;26,60;never smoked;0
+56312;Male;47;0;0;No;Private;Rural;111,15;23,80;never smoked;0
+56322;Male;49;0;1;Yes;Govt_job;Rural;88,97;32,60;never smoked;0
+56450;Male;25;0;0;No;Private;Rural;65,36;24,70;never smoked;0
+56459;Male;41;0;0;Yes;Private;Rural;87,34;34,30;formerly smoked;0
+56476;Male;36;0;0;Yes;Private;Rural;129,73;27,80;never smoked;0
+56584;Female;22;0;0;No;Private;Rural;62,00;32,70;smokes;0
+56616;Male;39;0;0;Yes;Private;Rural;125,11;24,90;formerly smoked;0
+56681;Female;22;0;0;No;Private;Urban;130,34;22,00;never smoked;0
+56716;Female;26;0;0;No;Private;Urban;82,59;29,40;never smoked;0
+56746;Male;46;1;0;Yes;Private;Urban;65,50;30,70;never smoked;0
+56755;Male;41;0;0;Yes;Private;Rural;108,71;24,00;never smoked;0
+56804;Female;34;0;0;No;Govt_job;Urban;60,36;24,10;never smoked;0
+56855;Male;46;0;0;Yes;Private;Urban;137,77;29,30;never smoked;0
+56857;Male;46;1;0;Yes;Govt_job;Urban;85,62;33,10;formerly smoked;0
+56875;Female;46;0;0;Yes;Govt_job;Urban;162,24;24,30;smokes;0
+56961;Female;40;0;0;No;Govt_job;Rural;70,56;32,30;never smoked;0
+56974;Female;38;0;0;Yes;Govt_job;Urban;70,92;41,60;never smoked;0
+56996;Male;44;0;0;Yes;Private;Urban;65,41;24,80;smokes;0
+57034;Female;37;0;0;No;Private;Rural;124,54;31,30;never smoked;0
+57047;Female;43;0;0;Yes;Private;Urban;110,42;32,60;smokes;0
+57124;Male;37;0;0;Yes;Private;Urban;120,07;33,90;smokes;0
+57210;Female;28;0;0;Yes;Private;Rural;131,80;30,30;never smoked;0
+57212;Male;49;0;0;No;Private;Urban;144,10;30,70;smokes;0
+57347;Female;29;0;0;No;Govt_job;Rural;57,02;43,00;formerly smoked;0
+57468;Female;44;0;0;Yes;Private;Rural;70,58;25,10;never smoked;0
+57497;Male;27;0;0;No;Private;Rural;69,70;27,30;never smoked;0
+57523;Female;26;0;0;Yes;Private;Urban;116,38;21,90;formerly smoked;0
+57569;Male;48;0;0;Yes;Private;Rural;106,74;33,70;formerly smoked;0
+57618;Female;47;0;0;Yes;Self-employed;Rural;140,39;25,50;never smoked;0
+57622;Female;30;0;0;Yes;Govt_job;Rural;110,55;30,90;smokes;0
+57668;Male;49;0;0;Yes;Govt_job;Urban;72,20;30,30;formerly smoked;0
+57765;Female;41;0;0;Yes;Govt_job;Rural;146,08;29,90;never smoked;0
+57774;Male;50;0;0;Yes;Private;Rural;104,02;29,50;never smoked;0
+57896;Male;32;0;0;Yes;Private;Urban;64,02;23,80;smokes;0
+57917;Female;47;0;0;Yes;Private;Urban;157,01;26,10;smokes;0
+57924;Female;45;0;0;Yes;Govt_job;Rural;63,01;31,50;never smoked;0
+57944;Female;35;0;0;Yes;Govt_job;Rural;56,12;24,20;smokes;0
+57983;Male;50;0;0;Yes;Govt_job;Urban;227,89;38,80;formerly smoked;0
+57985;Female;27;0;0;Yes;Private;Urban;94,19;27,40;formerly smoked;0
+58007;Female;36;0;0;Yes;Private;Urban;87,88;34,70;smokes;0
+58015;Female;44;0;0;No;Private;Rural;65,30;22,10;smokes;0
+58202;Female;50;1;0;Yes;Self-employed;Rural;167,41;30,90;never smoked;1
+58209;Female;22;0;0;No;Private;Urban;140,14;21,10;never smoked;0
+58350;Female;26;0;0;No;Govt_job;Rural;89,37;20,20;never smoked;0
+58438;Male;36;0;0;No;Private;Rural;233,52;40,90;never smoked;0
+58439;Male;36;0;0;No;Private;Urban;61,29;26,70;never smoked;0
+58477;Female;45;0;0;Yes;Private;Urban;81,24;37,00;never smoked;0
+58495;Male;34;0;0;Yes;Private;Rural;84,08;32,90;never smoked;0
+58543;Female;50;0;0;Yes;Govt_job;Urban;89,95;48,90;formerly smoked;0
+58577;Female;38;0;0;Yes;Govt_job;Rural;64,27;27,30;never smoked;0
+58617;Female;43;0;0;Yes;Self-employed;Rural;118,89;43,60;never smoked;0
+59058;Female;45;0;0;Yes;Govt_job;Rural;68,66;25,30;never smoked;0
+59223;Male;48;0;0;Yes;Private;Urban;68,13;38,00;formerly smoked;0
+59272;Male;38;0;0;Yes;Private;Rural;79,22;34,80;smokes;0
+59274;Female;33;0;0;Yes;Govt_job;Rural;73,54;36,60;smokes;0
+59335;Male;38;0;0;Yes;Govt_job;Rural;69,88;27,90;smokes;0
+59412;Female;25;0;0;Yes;Private;Urban;58,48;23,70;never smoked;0
+59521;Male;33;0;0;Yes;Private;Rural;74,88;31,60;smokes;0
+59604;Female;28;0;0;Yes;Private;Rural;141,15;28,60;never smoked;0
+59642;Female;45;0;0;Yes;Private;Urban;107,29;29,60;never smoked;0
+59663;Female;28;0;0;No;Private;Urban;107,74;38,50;never smoked;0
+59718;Female;33;0;0;Yes;Private;Rural;114,16;43,30;never smoked;0
+59807;Female;30;0;0;Yes;Private;Urban;59,82;25,40;never smoked;0
+59872;Female;38;0;0;Yes;Private;Rural;80,82;49,30;never smoked;0
+59906;Female;40;0;0;Yes;Private;Rural;139,90;31,70;smokes;0
+59928;Female;41;0;0;Yes;Self-employed;Rural;89,14;37,40;formerly smoked;0
+59945;Female;23;0;0;No;Private;Urban;132,88;24,90;never smoked;0
+59988;Female;26;1;0;Yes;Private;Urban;107,59;33,10;smokes;0
+59993;Male;40;0;0;Yes;Private;Rural;60,96;11,50;never smoked;0
+60047;Male;22;0;0;No;Private;Rural;58,38;36,00;never smoked;0
+60088;Male;49;1;0;Yes;Self-employed;Rural;92,26;33,10;formerly smoked;0
+60104;Male;44;0;0;Yes;Private;Urban;80,73;28,10;smokes;0
+60117;Male;30;0;0;No;Private;Rural;133,24;28,90;never smoked;0
+60139;Female;32;0;0;Yes;Self-employed;Rural;128,72;26,30;smokes;0
+60145;Female;38;0;0;Yes;Private;Urban;77,35;27,70;never smoked;0
+60148;Male;34;0;0;Yes;Private;Urban;80,81;33,20;never smoked;0
+60159;Female;29;0;0;No;Govt_job;Rural;118,61;26,50;never smoked;0
+60182;Female;49;0;0;Yes;Private;Urban;171,23;34,40;smokes;1
+60210;Female;22;0;0;No;Private;Urban;73,50;41,30;smokes;0
+60255;Female;34;0;0;No;Private;Rural;103,43;43,60;smokes;0
+60455;Male;48;0;0;Yes;Private;Urban;76,19;28,50;never smoked;0
+60602;Female;49;0;0;Yes;Govt_job;Urban;68,68;28,80;never smoked;0
+60635;Male;48;0;0;Yes;Private;Rural;99,96;25,20;never smoked;0
+60665;Male;29;0;0;No;Private;Urban;59,26;35,80;smokes;0
+60675;Female;48;1;0;Yes;Govt_job;Rural;221,08;57,20;never smoked;0
+60777;Female;31;0;0;Yes;Govt_job;Rural;103,55;20,50;formerly smoked;0
+60810;Male;46;0;0;Yes;Self-employed;Urban;55,83;26,40;never smoked;0
+60899;Female;47;0;0;Yes;Private;Urban;122,43;23,90;never smoked;0
+60934;Male;39;0;0;Yes;Private;Urban;57,38;41,80;formerly smoked;0
+60957;Male;45;0;0;Yes;Private;Rural;73,01;24,80;formerly smoked;0
+60981;Female;26;0;0;No;Private;Rural;130,07;33,10;never smoked;0
+61050;Male;37;0;0;Yes;Govt_job;Rural;107,58;25,30;never smoked;0
+61171;Female;31;0;0;No;Private;Rural;59,63;19,90;never smoked;0
+61242;Female;41;1;0;Yes;Govt_job;Rural;107,50;54,00;never smoked;0
+61247;Female;32;0;0;No;Private;Rural;199,18;27,90;never smoked;0
+61338;Female;40;0;0;Yes;Private;Rural;65,47;24,10;smokes;0
+61339;Male;47;0;0;Yes;Self-employed;Urban;95,04;28,70;never smoked;0
+61365;Male;45;0;0;Yes;Private;Rural;58,25;24,00;smokes;0
+61376;Male;38;0;0;Yes;Private;Urban;215,69;38,60;formerly smoked;0
+61408;Male;23;0;0;No;Never_worked;Urban;125,26;18,70;never smoked;0
+61477;Female;25;0;0;No;Private;Urban;68,07;18,60;smokes;0
+61505;Female;24;0;0;No;Private;Rural;187,99;24,90;smokes;0
+61528;Female;45;0;0;Yes;Govt_job;Urban;73,71;34,10;never smoked;0
+61573;Male;25;0;0;No;Private;Rural;65,77;23,70;smokes;0
+61651;Male;48;0;0;Yes;Private;Rural;113,84;21,90;never smoked;0
+61684;Female;38;0;0;Yes;Private;Urban;151,26;20,60;never smoked;0
+61697;Male;25;0;0;No;Private;Rural;113,80;35,30;formerly smoked;0
+61742;Male;26;0;0;No;Private;Urban;103,61;31,40;never smoked;0
+61743;Male;28;0;0;No;Govt_job;Urban;118,66;32,30;never smoked;0
+61757;Male;31;0;0;Yes;Self-employed;Rural;61,10;26,50;never smoked;0
+61769;Male;30;0;0;No;Private;Urban;88,65;22,20;never smoked;0
+61785;Female;40;0;0;No;Private;Rural;158,93;31,30;smokes;0
+61848;Female;48;0;0;Yes;Private;Urban;113,87;28,90;never smoked;0
+61889;Male;34;0;0;Yes;Private;Urban;61,11;29,30;never smoked;0
+61983;Female;41;0;0;Yes;Private;Urban;133,76;43,40;smokes;0
+61987;Female;40;0;0;Yes;Private;Urban;101,06;32,30;smokes;0
+62075;Female;40;0;0;Yes;Private;Urban;65,42;17,40;formerly smoked;0
+62238;Female;42;0;0;No;Private;Urban;80,24;28,90;never smoked;0
+62332;Female;40;0;0;Yes;Private;Rural;74,51;36,60;never smoked;0
+62387;Female;45;0;0;Yes;Private;Urban;100,84;21,00;never smoked;0
+62395;Male;33;0;0;Yes;Private;Urban;78,43;43,70;smokes;0
+62396;Female;27;0;0;Yes;Private;Urban;139,20;36,20;never smoked;0
+62416;Female;26;0;0;Yes;Private;Rural;73,29;27,80;never smoked;0
+62471;Female;34;0;0;Yes;Self-employed;Rural;68,53;29,70;never smoked;0
+62475;Male;39;1;0;Yes;Private;Rural;88,18;33,50;smokes;0
+62513;Female;28;0;0;Yes;Private;Rural;141,16;36,70;never smoked;0
+62602;Female;49;0;0;Yes;Private;Urban;60,91;29,90;never smoked;1
+62608;Female;47;0;0;Yes;Private;Urban;136,80;37,30;never smoked;0
+62610;Male;32;0;0;Yes;Private;Urban;119,90;30,90;smokes;0
+62629;Male;37;1;0;Yes;Private;Urban;165,99;32,30;never smoked;0
+62681;Female;38;1;0;Yes;Private;Urban;137,94;41,80;never smoked;0
+62709;Female;47;0;0;Yes;Private;Rural;204,63;43,40;never smoked;0
+62767;Female;24;0;0;Yes;Private;Urban;89,68;38,70;never smoked;0
+62793;Male;37;0;0;Yes;Private;Urban;79,56;25,20;never smoked;0
+62951;Female;32;0;0;Yes;Private;Rural;61,83;31,30;never smoked;0
+62983;Female;26;0;0;Yes;Private;Urban;138,02;20,30;smokes;0
+63029;Male;32;0;0;Yes;Private;Rural;115,86;33,30;never smoked;0
+63043;Female;27;0;0;No;Private;Urban;61,80;26,80;formerly smoked;0
+63287;Female;49;0;0;Yes;Private;Urban;77,93;39,10;smokes;0
+63303;Male;28;0;0;No;Private;Urban;75,50;27,00;smokes;0
+63323;Male;49;1;0;Yes;Self-employed;Rural;119,30;30,40;formerly smoked;0
+63333;Female;32;0;0;Yes;Self-employed;Urban;110,33;24,00;smokes;0
+63337;Female;42;0;0;Yes;Private;Rural;69,99;46,00;smokes;0
+63362;Female;37;0;0;Yes;Private;Urban;60,61;35,70;formerly smoked;0
+63404;Female;44;0;0;Yes;Private;Rural;87,71;34,00;formerly smoked;0
+63409;Female;49;0;0;Yes;Private;Urban;63,71;33,80;smokes;0
+63455;Male;26;0;0;Yes;Private;Urban;70,61;20,00;never smoked;0
+63577;Female;50;1;0;Yes;Self-employed;Rural;68,80;34,90;never smoked;0
+63606;Male;29;0;0;Yes;Govt_job;Urban;60,34;29,60;formerly smoked;0
+63650;Female;47;0;0;Yes;Govt_job;Urban;135,79;32,10;formerly smoked;0
+63663;Male;47;0;0;Yes;Private;Urban;178,33;27,70;never smoked;0
+63665;Female;31;0;0;Yes;Private;Urban;60,06;25,50;smokes;0
+63668;Male;22;0;0;No;Private;Rural;85,57;24,20;formerly smoked;0
+63725;Male;23;0;0;No;Private;Urban;62,00;24,80;formerly smoked;0
+63764;Male;23;0;0;No;Private;Urban;87,87;23,40;never smoked;0
+63804;Female;27;0;0;No;Private;Rural;55,93;20,30;smokes;0
+63884;Female;37;0;0;Yes;Private;Rural;162,96;39,40;never smoked;0
+63915;Female;39;0;0;Yes;Private;Urban;87,39;57,90;never smoked;0
+63936;Female;30;0;0;No;Private;Urban;69,67;35,80;formerly smoked;0
+63938;Female;49;0;0;Yes;Self-employed;Urban;149,13;42,90;smokes;0
+63949;Female;33;0;0;Yes;Govt_job;Urban;75,67;44,70;never smoked;0
+63958;Female;42;0;0;Yes;Private;Urban;96,99;34,80;formerly smoked;0
+63984;Male;39;0;0;Yes;Private;Rural;205,77;24,10;never smoked;0
+64159;Female;44;0;0;Yes;Private;Rural;110,41;30,50;smokes;0
+64165;Female;24;0;0;No;Private;Urban;71,63;22,00;formerly smoked;0
+64196;Male;26;0;0;No;Private;Urban;64,68;23,30;smokes;0
+64371;Female;49;0;0;Yes;Self-employed;Rural;68,44;23,00;smokes;0
+64412;Female;47;0;0;Yes;Private;Urban;56,67;24,40;never smoked;0
+64435;Female;37;0;0;Yes;Private;Rural;76,03;33,20;never smoked;0
+64494;Female;34;0;0;Yes;Private;Urban;133,82;20,40;never smoked;0
+64534;Female;25;0;0;Yes;Private;Urban;104,66;23,90;never smoked;0
+64541;Male;23;0;0;Yes;Private;Urban;115,83;25,30;never smoked;0
+64582;Male;40;1;0;Yes;Govt_job;Rural;212,01;28,40;never smoked;0
+64633;Female;48;0;0;Yes;Private;Urban;94,04;32,70;never smoked;0
+64652;Female;44;0;0;Yes;Private;Rural;56,85;24,40;never smoked;0
+64662;Female;23;0;0;No;Private;Rural;58,01;35,30;never smoked;0
+64732;Female;29;0;0;No;Private;Urban;60,26;20,40;never smoked;0
+64742;Male;48;0;0;No;Self-employed;Rural;64,18;32,10;never smoked;0
+64750;Female;22;0;0;No;Private;Rural;62,81;21,30;never smoked;0
+64752;Female;29;0;0;No;Private;Urban;72,02;34,00;formerly smoked;0
+64817;Male;39;0;0;Yes;Self-employed;Rural;88,48;34,30;never smoked;0
+64931;Male;37;0;0;Yes;Private;Rural;131,05;27,20;never smoked;0
+64972;Male;47;0;0;Yes;Private;Rural;57,76;33,20;smokes;0
+64980;Female;42;0;0;Yes;Govt_job;Urban;65,66;33,70;never smoked;0
+65038;Female;33;0;0;Yes;Private;Rural;57,10;33,10;never smoked;0
+65053;Female;34;0;0;Yes;Private;Urban;113,01;37,60;never smoked;0
+65093;Female;43;0;0;Yes;Self-employed;Urban;75,77;20,40;formerly smoked;0
+65109;Male;47;0;0;Yes;Private;Urban;71,42;34,90;smokes;0
+65127;Female;35;0;0;Yes;Private;Urban;80,76;28,80;smokes;0
+65130;Male;40;0;0;Yes;Private;Rural;144,48;29,80;smokes;0
+65154;Female;30;0;0;Yes;Private;Urban;112,19;53,40;never smoked;0
+65336;Female;27;0;0;Yes;Private;Urban;98,71;26,10;formerly smoked;0
+65339;Female;46;0;0;Yes;Private;Urban;127,75;30,50;never smoked;0
+65358;Female;31;0;0;Yes;Private;Rural;69,26;21,80;formerly smoked;0
+65388;Female;40;0;0;No;Private;Urban;80,47;27,30;smokes;0
+65396;Female;36;0;0;Yes;Private;Rural;146,61;39,60;never smoked;0
+65460;Female;32;0;0;Yes;Private;Rural;62,60;25,10;formerly smoked;0
+65473;Male;23;0;0;No;Private;Urban;61,96;22,00;smokes;0
+65507;Male;33;0;0;Yes;Private;Rural;55,72;38,20;never smoked;0
+65526;Female;47;0;0;Yes;Private;Urban;77,91;30,30;formerly smoked;0
+65564;Female;48;0;0;Yes;Private;Urban;57,43;53,50;formerly smoked;0
+65632;Male;42;0;0;Yes;Private;Rural;145,50;31,80;formerly smoked;0
+65667;Female;48;0;0;Yes;Private;Rural;134,59;28,20;smokes;0
+65697;Female;39;0;0;Yes;Private;Urban;122,91;35,70;never smoked;0
+65729;Female;26;0;0;Yes;Private;Rural;123,98;30,10;never smoked;0
+65748;Female;46;0;0;Yes;Private;Urban;180,45;22,50;never smoked;0
+65766;Female;27;0;0;No;Private;Rural;104,33;20,10;never smoked;0
+65849;Female;47;0;0;Yes;Private;Rural;121,43;25,30;never smoked;0
+65907;Female;49;0;0;Yes;Private;Urban;206,53;44,50;smokes;0
+65944;Female;47;0;0;Yes;Self-employed;Urban;105,88;39,90;smokes;0
+65962;Male;50;0;0;Yes;Private;Urban;58,70;38,90;smokes;0
+66006;Female;43;0;0;Yes;Private;Urban;86,67;33,30;never smoked;0
+66174;Male;46;0;0;Yes;Self-employed;Rural;88,19;29,30;formerly smoked;0
+66264;Male;29;0;0;Yes;Govt_job;Urban;102,40;26,90;smokes;0
+66287;Male;33;0;0;Yes;Private;Rural;88,04;30,30;formerly smoked;0
+66306;Female;43;0;0;Yes;Private;Rural;82,57;29,10;never smoked;0
+66321;Male;47;0;0;Yes;Govt_job;Urban;64,99;33,20;never smoked;0
+66405;Female;31;0;0;Yes;Private;Urban;117,31;28,40;never smoked;0
+66419;Male;25;0;0;Yes;Private;Rural;119,96;27,70;never smoked;0
+66435;Female;28;0;0;Yes;Private;Rural;71,97;27,20;never smoked;0
+66490;Male;42;1;0;Yes;Govt_job;Urban;118,82;41,00;smokes;0
+66530;Female;38;0;0;Yes;Private;Urban;162,30;23,60;never smoked;0
+66570;Female;23;0;0;No;Private;Rural;69,24;51,00;never smoked;0
+66581;Female;34;0;0;Yes;Private;Rural;59,14;40,10;never smoked;0
+66590;Female;43;0;0;Yes;Self-employed;Urban;67,50;20,40;formerly smoked;0
+66637;Female;49;0;0;Yes;Govt_job;Urban;117,34;21,60;never smoked;0
+66678;Female;22;0;0;No;Private;Urban;73,40;21,60;never smoked;0
+66680;Female;49;1;0;Yes;Private;Rural;65,34;39,40;never smoked;0
+66794;Female;44;0;0;Yes;Govt_job;Rural;81,13;34,10;never smoked;0
+66866;Female;48;0;0;Yes;Private;Urban;74,11;20,50;never smoked;1
+66883;Female;42;0;0;Yes;Self-employed;Urban;140,08;43,00;never smoked;0
+66893;Male;49;1;0;Yes;Govt_job;Urban;139,43;40,20;formerly smoked;0
+66945;Female;49;0;0;Yes;Private;Urban;85,33;25,50;never smoked;0
+66973;Male;43;0;0;Yes;Private;Urban;92,71;30,50;formerly smoked;0
+67052;Female;36;0;0;Yes;Private;Urban;76,93;21,60;never smoked;0
+67055;Female;31;0;0;Yes;Private;Rural;77,01;31,30;formerly smoked;0
+67078;Female;36;1;0;Yes;Private;Urban;91,56;42,20;never smoked;0
+67217;Female;45;0;0;Yes;Private;Urban;92,86;35,10;formerly smoked;0
+67277;Male;42;0;0;Yes;Private;Rural;67,87;30,00;never smoked;0
+67309;Male;47;0;0;Yes;Private;Rural;86,37;39,20;smokes;0
+67356;Female;43;0;0;Yes;Private;Urban;80,80;46,10;never smoked;0
+67405;Female;37;0;0;Yes;Private;Urban;84,13;27,00;never smoked;0
+67411;Male;29;0;0;No;Private;Rural;105,73;28,20;smokes;0
+67412;Female;39;0;0;Yes;Private;Rural;83,83;30,30;never smoked;0
+67483;Male;31;1;0;Yes;Private;Urban;149,68;45,10;never smoked;0
+67548;Female;31;0;0;Yes;Private;Urban;98,99;31,20;never smoked;0
+67620;Male;30;0;0;Yes;Govt_job;Rural;66,01;26,30;smokes;0
+67635;Male;24;0;0;No;Private;Urban;90,00;25,50;never smoked;0
+67733;Female;28;0;0;Yes;Private;Urban;183,45;40,50;smokes;0
+67744;Female;23;0;0;No;Private;Urban;74,46;35,60;formerly smoked;0
+67814;Male;43;0;0;Yes;Govt_job;Rural;79,92;30,80;formerly smoked;0
+67855;Female;40;0;0;Yes;Private;Rural;95,04;42,40;never smoked;0
+67932;Female;48;0;0;Yes;Private;Rural;75,74;28,80;smokes;0
+67940;Female;46;0;0;Yes;Govt_job;Rural;83,88;27,10;never smoked;0
+67941;Female;29;0;0;No;Self-employed;Rural;62,47;34,40;formerly smoked;0
+68059;Male;35;0;0;Yes;Govt_job;Rural;103,08;41,50;smokes;0
+68131;Female;27;0;0;No;Private;Rural;149,95;25,90;never smoked;0
+68138;Male;49;0;0;Yes;Private;Urban;92,02;38,10;never smoked;0
+68209;Male;47;0;0;Yes;Govt_job;Rural;58,23;31,40;formerly smoked;0
+68302;Female;40;0;0;Yes;Private;Urban;65,77;31,20;never smoked;0
+68370;Male;49;0;0;Yes;Private;Urban;130,07;26,00;never smoked;0
+68407;Male;30;0;0;Yes;Govt_job;Urban;95,94;31,10;never smoked;0
+68408;Male;24;0;0;No;Private;Urban;88,38;20,10;smokes;0
+68524;Female;38;0;0;Yes;Private;Urban;100,02;28,00;never smoked;0
+68614;Female;48;0;0;Yes;Private;Rural;216,70;38,70;formerly smoked;0
+68685;Male;36;0;0;Yes;Govt_job;Urban;65,87;32,20;formerly smoked;0
+68739;Male;34;0;0;Yes;Private;Urban;149,62;39,40;formerly smoked;0
+68843;Male;30;0;0;Yes;Private;Rural;104,77;19,20;smokes;0
+68965;Male;43;0;0;Yes;Private;Urban;72,33;36,20;smokes;0
+69059;Female;42;0;0;Yes;Private;Urban;86,30;20,10;never smoked;0
+69069;Female;48;0;1;No;Private;Rural;101,89;25,10;smokes;0
+69089;Female;40;0;0;Yes;Private;Rural;83,30;32,00;smokes;0
+69120;Female;31;0;0;Yes;Self-employed;Rural;139,81;39,60;never smoked;0
+69213;Male;35;0;0;No;Private;Rural;69,54;27,40;never smoked;0
+69239;Female;43;0;0;Yes;Self-employed;Rural;105,59;43,30;smokes;0
+69285;Female;45;0;0;Yes;Private;Urban;73,27;22,20;smokes;0
+69312;Female;48;0;0;Yes;Self-employed;Urban;99,29;31,20;never smoked;0
+69427;Female;29;0;0;No;Private;Urban;101,28;22,70;never smoked;0
+69510;Male;39;0;0;Yes;Private;Rural;121,32;26,80;never smoked;0
+69528;Female;31;0;0;Yes;Private;Urban;56,48;26,20;formerly smoked;0
+69553;Female;29;0;0;Yes;Private;Rural;60,74;20,00;never smoked;0
+69623;Male;46;0;0;Yes;Private;Urban;85,84;37,30;never smoked;0
+69647;Male;30;0;0;No;Private;Urban;63,42;28,00;never smoked;0
+69666;Female;27;0;0;Yes;Self-employed;Urban;88,97;28,80;never smoked;0
+69668;Female;33;0;0;Yes;Self-employed;Rural;112,94;43,00;never smoked;0
+69710;Female;46;0;0;No;Self-employed;Rural;64,09;25,30;never smoked;0
+69792;Female;37;0;0;Yes;Govt_job;Urban;65,29;32,90;never smoked;0
+69847;Female;30;0;0;Yes;Self-employed;Urban;76,70;24,20;never smoked;0
+69900;Female;46;0;0;Yes;Govt_job;Urban;56,89;23,80;smokes;0
+69918;Female;38;1;0;Yes;Private;Rural;109,46;41,50;never smoked;0
+69936;Female;39;0;0;Yes;Private;Urban;101,52;41,80;never smoked;0
+70022;Male;32;0;0;No;Private;Rural;61,11;32,70;never smoked;0
+70122;Female;29;0;0;Yes;Private;Rural;72,52;33,90;never smoked;0
+70241;Female;22;0;0;No;Private;Urban;66,29;20,50;smokes;0
+70297;Female;36;0;0;Yes;Private;Urban;91,34;29,90;never smoked;0
+70336;Female;25;0;0;Yes;Private;Urban;60,84;24,50;never smoked;0
+70374;Female;31;0;0;Yes;Private;Rural;122,41;40,30;smokes;0
+70428;Female;37;0;0;Yes;Govt_job;Urban;76,98;34,70;never smoked;0
+70429;Female;33;0;0;Yes;Private;Urban;84,48;44,50;never smoked;0
+70447;Male;50;0;0;Yes;Private;Rural;122,48;35,90;smokes;0
+70500;Female;44;0;0;No;Private;Rural;92,72;36,60;never smoked;0
+70540;Female;39;0;0;Yes;Private;Urban;243,52;37,20;smokes;0
+70593;Female;38;0;0;Yes;Private;Rural;183,43;38,10;formerly smoked;0
+70602;Female;29;0;0;No;Private;Rural;79,27;29,00;smokes;0
+70610;Female;45;0;0;Yes;Private;Rural;81,02;39,00;never smoked;0
+70661;Female;28;0;0;No;Private;Rural;134,12;28,80;formerly smoked;0
+70670;Female;27;0;0;Yes;Private;Rural;57,96;64,40;never smoked;0
+70693;Female;28;0;1;Yes;Private;Rural;111,27;19,10;smokes;0
+70718;Male;33;0;0;Yes;Private;Rural;153,34;31,50;never smoked;0
+70783;Female;43;0;0;Yes;Private;Urban;96,30;28,10;smokes;0
+70884;Female;34;0;0;Yes;Private;Urban;79,80;37,40;smokes;0
+70973;Female;50;0;0;Yes;Govt_job;Urban;151,25;31,50;never smoked;0
+71097;Female;23;0;0;No;Private;Urban;64,94;18,80;never smoked;0
+71221;Female;42;0;0;Yes;Govt_job;Urban;99,94;33,40;never smoked;0
+71250;Female;29;0;0;Yes;Private;Rural;62,48;29,50;never smoked;0
+71322;Female;38;0;0;Yes;Private;Rural;196,20;32,80;never smoked;0
+71327;Female;47;0;0;No;Private;Rural;143,45;23,80;never smoked;0
+71339;Female;40;0;0;Yes;Govt_job;Urban;114,32;28,30;smokes;0
+71379;Female;45;0;0;Yes;Govt_job;Urban;113,63;27,50;smokes;0
+71417;Male;46;0;0;No;Private;Urban;159,67;37,30;never smoked;0
+71420;Male;27;0;0;No;Govt_job;Rural;65,12;41,10;smokes;0
+71442;Female;30;0;0;Yes;Private;Rural;99,20;32,50;never smoked;0
+71533;Male;50;0;0;Yes;Private;Urban;158,31;32,80;formerly smoked;0
+71548;Male;45;0;0;Yes;Govt_job;Urban;55,47;19,80;smokes;0
+71724;Female;23;0;0;No;Private;Urban;59,07;21,60;never smoked;0
+71869;Female;24;0;0;No;Private;Rural;72,06;30,20;formerly smoked;0
+71957;Female;35;0;0;Yes;Private;Rural;58,72;40,00;smokes;0
+71978;Female;50;0;0;Yes;Private;Urban;95,01;26,20;formerly smoked;0
+72041;Male;23;0;0;No;Private;Urban;82,53;20,70;smokes;0
+72082;Female;45;0;0;Yes;Self-employed;Rural;69,76;25,30;smokes;0
+72096;Female;41;0;0;Yes;Private;Rural;121,44;20,40;never smoked;0
+72184;Female;43;0;0;Yes;Self-employed;Urban;89,73;23,50;formerly smoked;0
+72188;Male;33;0;0;No;Private;Urban;107,47;26,70;never smoked;0
+72276;Male;38;0;0;Yes;Private;Urban;86,93;31,10;never smoked;0
+72289;Female;44;0;0;Yes;Private;Rural;68,42;43,20;smokes;0
+72393;Female;23;0;0;Yes;Govt_job;Rural;84,93;24,20;never smoked;0
+72435;Female;37;0;0;Yes;Private;Urban;217,11;29,10;never smoked;0
+72512;Female;48;0;0;Yes;Self-employed;Urban;90,38;38,00;smokes;0
+72525;Female;39;0;0;Yes;Private;Urban;90,31;27,60;smokes;0
+72715;Female;50;0;1;Yes;Private;Urban;193,80;26,40;never smoked;0
+72725;Female;26;0;0;No;Govt_job;Urban;59,67;24,50;smokes;0
+72776;Male;26;0;0;Yes;Govt_job;Urban;94,24;29,20;formerly smoked;0
+72824;Male;46;0;0;Yes;Private;Rural;59,05;28,30;formerly smoked;0
+72882;Male;47;0;0;Yes;Private;Rural;75,30;25,00;formerly smoked;0
+72915;Female;45;0;0;Yes;Private;Urban;172,33;45,30;formerly smoked;0
